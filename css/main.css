@@ -1,0 +1,51 @@
+.canvas {
+    width: 80vw;
+    height: 80vh;
+    margin: 0 auto;
+    position: relative;
+}
+
+.person {
+    position: absolute;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+.white {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    opacity: 1;
+    transition-duration: 100ms;
+    z-index: 3;
+}
+.explosion {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    transition-duration: 100ms;
+    opacity: 1;
+    z-index: 2;
+}
+.emoji {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.animation .white {
+    transition-property: opacity;
+    opacity: 0;
+}
+.animation .explosion {
+    transition-property: opacity;
+    opacity: 0;
+}

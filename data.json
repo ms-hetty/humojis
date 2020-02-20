@@ -1,0 +1,6960 @@
+{
+   "1950": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 19129,
+         "child": 39260,
+         "adult": 52119,
+         "senior": 4075
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 19441,
+         "child": 39526,
+         "adult": 50929,
+         "senior": 3312
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 98180,
+         "child": 217677,
+         "adult": 338759,
+         "senior": 30944
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 102440,
+         "child": 233042,
+         "adult": 358192,
+         "senior": 25672
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25350,
+         "child": 69397,
+         "adult": 172149,
+         "senior": 25971
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26334,
+         "child": 70215,
+         "adult": 142147,
+         "senior": 17766
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 13417,
+         "child": 28799,
+         "adult": 39017,
+         "senior": 3187
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 13743,
+         "child": 29261,
+         "adult": 38659,
+         "senior": 2741
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9230,
+         "child": 19718,
+         "adult": 49948,
+         "senior": 7477
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9652,
+         "child": 20398,
+         "adult": 49563,
+         "senior": 6618
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 770,
+         "child": 1609,
+         "adult": 3488,
+         "senior": 500
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 810,
+         "child": 1696,
+         "adult": 3656,
+         "senior": 445
+      }
+   ],
+   "1951": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 19745,
+         "child": 39995,
+         "adult": 52996,
+         "senior": 4149
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 20076,
+         "child": 40250,
+         "adult": 51742,
+         "senior": 3376
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 104718,
+         "child": 220744,
+         "adult": 343761,
+         "senior": 31619
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 109145,
+         "child": 236036,
+         "adult": 363562,
+         "senior": 26235
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 26860,
+         "child": 68577,
+         "adult": 173204,
+         "senior": 26586
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 27929,
+         "child": 69523,
+         "adult": 143567,
+         "senior": 18076
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 13990,
+         "child": 29466,
+         "adult": 39928,
+         "senior": 3274
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 14324,
+         "child": 29956,
+         "adult": 39531,
+         "senior": 2817
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9520,
+         "child": 20137,
+         "adult": 50296,
+         "senior": 7727
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9946,
+         "child": 20792,
+         "adult": 49795,
+         "senior": 6805
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 799,
+         "child": 1655,
+         "adult": 3539,
+         "senior": 516
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 839,
+         "child": 1747,
+         "adult": 3714,
+         "senior": 456
+      }
+   ],
+   "1952": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 20266,
+         "child": 40822,
+         "adult": 53991,
+         "senior": 4217
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 20591,
+         "child": 41093,
+         "adult": 52685,
+         "senior": 3431
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 111494,
+         "child": 223649,
+         "adult": 347975,
+         "senior": 32063
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 116492,
+         "child": 238705,
+         "adult": 367879,
+         "senior": 26575
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27175,
+         "child": 68642,
+         "adult": 174664,
+         "senior": 27281
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28305,
+         "child": 69769,
+         "adult": 145445,
+         "senior": 18411
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 14560,
+         "child": 30208,
+         "adult": 40851,
+         "senior": 3360
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 14903,
+         "child": 30723,
+         "adult": 40418,
+         "senior": 2891
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9716,
+         "child": 20711,
+         "adult": 50727,
+         "senior": 7984
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10144,
+         "child": 21372,
+         "adult": 50130,
+         "senior": 6992
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 816,
+         "child": 1712,
+         "adult": 3586,
+         "senior": 533
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 856,
+         "child": 1808,
+         "adult": 3766,
+         "senior": 467
+      }
+   ],
+   "1953": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 20738,
+         "child": 41705,
+         "adult": 55086,
+         "senior": 4280
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 21058,
+         "child": 42011,
+         "adult": 53734,
+         "senior": 3478
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 116924,
+         "child": 227128,
+         "adult": 352625,
+         "senior": 32375
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 122509,
+         "child": 241950,
+         "adult": 372616,
+         "senior": 26768
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27140,
+         "child": 69267,
+         "adult": 176027,
+         "senior": 27968
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28314,
+         "child": 70570,
+         "adult": 147293,
+         "senior": 18703
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 15106,
+         "child": 31022,
+         "adult": 41806,
+         "senior": 3453
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 15459,
+         "child": 31560,
+         "adult": 41337,
+         "senior": 2965
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9911,
+         "child": 21396,
+         "adult": 51167,
+         "senior": 8248
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10345,
+         "child": 22099,
+         "adult": 50471,
+         "senior": 7172
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 832,
+         "child": 1776,
+         "adult": 3626,
+         "senior": 550
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 871,
+         "child": 1871,
+         "adult": 3816,
+         "senior": 475
+      }
+   ],
+   "1954": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 21218,
+         "child": 42604,
+         "adult": 56268,
+         "senior": 4335
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 21541,
+         "child": 42960,
+         "adult": 54868,
+         "senior": 3520
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 120550,
+         "child": 231469,
+         "adult": 358225,
+         "senior": 32581
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 126566,
+         "child": 246113,
+         "adult": 378431,
+         "senior": 26833
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27079,
+         "child": 70091,
+         "adult": 177303,
+         "senior": 28613
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28283,
+         "child": 71546,
+         "adult": 149122,
+         "senior": 18932
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 15617,
+         "child": 31892,
+         "adult": 42811,
+         "senior": 3545
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 15980,
+         "child": 32453,
+         "adult": 42311,
+         "senior": 3038
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10137,
+         "child": 22161,
+         "adult": 51590,
+         "senior": 8518
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10579,
+         "child": 22931,
+         "adult": 50789,
+         "senior": 7346
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 849,
+         "child": 1843,
+         "adult": 3669,
+         "senior": 567
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 888,
+         "child": 1941,
+         "adult": 3866,
+         "senior": 480
+      }
+   ],
+   "1955": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 21773,
+         "child": 43461,
+         "adult": 57519,
+         "senior": 4384
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 22111,
+         "child": 43877,
+         "adult": 56073,
+         "senior": 3551
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 122924,
+         "child": 236504,
+         "adult": 364684,
+         "senior": 32682
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 129193,
+         "child": 251044,
+         "adult": 385249,
+         "senior": 26758
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27175,
+         "child": 70724,
+         "adult": 178658,
+         "senior": 29227
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28404,
+         "child": 72310,
+         "adult": 151075,
+         "senior": 19106
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 16109,
+         "child": 32793,
+         "adult": 43874,
+         "senior": 3639
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 16486,
+         "child": 33375,
+         "adult": 43343,
+         "senior": 3106
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10388,
+         "child": 22972,
+         "adult": 51998,
+         "senior": 8800
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10839,
+         "child": 23828,
+         "adult": 51095,
+         "senior": 7512
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 867,
+         "child": 1913,
+         "adult": 3710,
+         "senior": 580
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 908,
+         "child": 2012,
+         "adult": 3920,
+         "senior": 482
+      }
+   ],
+   "1956": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 22491,
+         "child": 44442,
+         "adult": 58523,
+         "senior": 4492
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 22827,
+         "child": 44922,
+         "adult": 57065,
+         "senior": 3646
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 127088,
+         "child": 241948,
+         "adult": 369027,
+         "senior": 33101
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 133903,
+         "child": 256274,
+         "adult": 389594,
+         "senior": 27185
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 26932,
+         "child": 71256,
+         "adult": 180344,
+         "senior": 29944
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28188,
+         "child": 73037,
+         "adult": 153228,
+         "senior": 19444
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 16696,
+         "child": 33749,
+         "adult": 44827,
+         "senior": 3763
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 17094,
+         "child": 34342,
+         "adult": 44263,
+         "senior": 3215
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10543,
+         "child": 23844,
+         "adult": 52480,
+         "senior": 9081
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11005,
+         "child": 24744,
+         "adult": 51487,
+         "senior": 7706
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 878,
+         "child": 1991,
+         "adult": 3760,
+         "senior": 597
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 920,
+         "child": 2092,
+         "adult": 3970,
+         "senior": 494
+      }
+   ],
+   "1957": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 23081,
+         "child": 45544,
+         "adult": 59647,
+         "senior": 4596
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 23434,
+         "child": 46091,
+         "adult": 58165,
+         "senior": 3736
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 128276,
+         "child": 249231,
+         "adult": 375047,
+         "senior": 33487
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 135160,
+         "child": 263620,
+         "adult": 395876,
+         "senior": 27542
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27070,
+         "child": 71469,
+         "adult": 182017,
+         "senior": 30600
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28343,
+         "child": 73445,
+         "adult": 155399,
+         "senior": 19704
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 17155,
+         "child": 34818,
+         "adult": 45870,
+         "senior": 3887
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 17568,
+         "child": 35428,
+         "adult": 45275,
+         "senior": 3319
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10758,
+         "child": 24708,
+         "adult": 52941,
+         "senior": 9353
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11229,
+         "child": 25646,
+         "adult": 51877,
+         "senior": 7875
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 897,
+         "child": 2065,
+         "adult": 3812,
+         "senior": 614
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 940,
+         "child": 2169,
+         "adult": 4022,
+         "senior": 502
+      }
+   ],
+   "1958": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 23611,
+         "child": 46731,
+         "adult": 60864,
+         "senior": 4692
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 23991,
+         "child": 47345,
+         "adult": 59354,
+         "senior": 3817
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 128043,
+         "child": 257797,
+         "adult": 381831,
+         "senior": 33782
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 134741,
+         "child": 272466,
+         "adult": 403028,
+         "senior": 27771
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27415,
+         "child": 71544,
+         "adult": 183639,
+         "senior": 31244
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28697,
+         "child": 73726,
+         "adult": 157551,
+         "senior": 19926
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 17544,
+         "child": 35977,
+         "adult": 46970,
+         "senior": 4014
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 17970,
+         "child": 36609,
+         "adult": 46345,
+         "senior": 3427
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10979,
+         "child": 25555,
+         "adult": 53411,
+         "senior": 9619
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11455,
+         "child": 26538,
+         "adult": 52290,
+         "senior": 8023
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 920,
+         "child": 2138,
+         "adult": 3867,
+         "senior": 631
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 965,
+         "child": 2245,
+         "adult": 4080,
+         "senior": 506
+      }
+   ],
+   "1959": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 24155,
+         "child": 47955,
+         "adult": 62161,
+         "senior": 4787
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 24562,
+         "child": 48632,
+         "adult": 60619,
+         "senior": 3891
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 127963,
+         "child": 266925,
+         "adult": 388536,
+         "senior": 33954
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 134470,
+         "child": 281998,
+         "adult": 410063,
+         "senior": 27840
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27753,
+         "child": 71816,
+         "adult": 185068,
+         "senior": 31925
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29042,
+         "child": 74213,
+         "adult": 159548,
+         "senior": 20149
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 17934,
+         "child": 37196,
+         "adult": 48095,
+         "senior": 4146
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 18372,
+         "child": 37848,
+         "adult": 47444,
+         "senior": 3531
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11152,
+         "child": 26387,
+         "adult": 53924,
+         "senior": 9882
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11630,
+         "child": 27418,
+         "adult": 52764,
+         "senior": 8148
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 942,
+         "child": 2209,
+         "adult": 3927,
+         "senior": 647
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 989,
+         "child": 2317,
+         "adult": 4144,
+         "senior": 511
+      }
+   ],
+   "1960": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 24786,
+         "child": 49160,
+         "adult": 63523,
+         "senior": 4882
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 25215,
+         "child": 49892,
+         "adult": 61947,
+         "senior": 3959
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 129106,
+         "child": 275830,
+         "adult": 394835,
+         "senior": 34010
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 135601,
+         "child": 291312,
+         "adult": 416605,
+         "senior": 27741
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27926,
+         "child": 72548,
+         "adult": 186191,
+         "senior": 32667
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29226,
+         "child": 75162,
+         "adult": 161293,
+         "senior": 20397
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 18382,
+         "child": 38436,
+         "adult": 49233,
+         "senior": 4284
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 18833,
+         "child": 39108,
+         "adult": 48552,
+         "senior": 3640
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11240,
+         "child": 27208,
+         "adult": 54482,
+         "senior": 10145
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11721,
+         "child": 28291,
+         "adult": 53307,
+         "senior": 8254
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 961,
+         "child": 2279,
+         "adult": 3991,
+         "senior": 661
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1009,
+         "child": 2390,
+         "adult": 4213,
+         "senior": 517
+      }
+   ],
+   "1961": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 25541,
+         "child": 50560,
+         "adult": 64651,
+         "senior": 5027
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 26014,
+         "child": 51315,
+         "adult": 63029,
+         "senior": 4081
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 129008,
+         "child": 285789,
+         "adult": 401016,
+         "senior": 34866
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 135270,
+         "child": 301696,
+         "adult": 423167,
+         "senior": 28572
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 28069,
+         "child": 73629,
+         "adult": 186920,
+         "senior": 33538
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29388,
+         "child": 76438,
+         "adult": 162613,
+         "senior": 20841
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 18830,
+         "child": 39760,
+         "adult": 50356,
+         "senior": 4453
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 19300,
+         "child": 40439,
+         "adult": 49648,
+         "senior": 3783
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11348,
+         "child": 28091,
+         "adult": 54880,
+         "senior": 10429
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11847,
+         "child": 29187,
+         "adult": 53702,
+         "senior": 8402
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 984,
+         "child": 2353,
+         "adult": 4049,
+         "senior": 677
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1035,
+         "child": 2465,
+         "adult": 4267,
+         "senior": 522
+      }
+   ],
+   "1962": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 26228,
+         "child": 52065,
+         "adult": 65883,
+         "senior": 5172
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 26726,
+         "child": 52851,
+         "adult": 64204,
+         "senior": 4194
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 131548,
+         "child": 294716,
+         "adult": 406397,
+         "senior": 35542
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 138015,
+         "child": 310862,
+         "adult": 428747,
+         "senior": 29203
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 28074,
+         "child": 75123,
+         "adult": 187376,
+         "senior": 34437
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29404,
+         "child": 78119,
+         "adult": 163720,
+         "senior": 21282
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 19337,
+         "child": 41104,
+         "adult": 51490,
+         "senior": 4624
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 19822,
+         "child": 41792,
+         "adult": 50755,
+         "senior": 3924
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11320,
+         "child": 28966,
+         "adult": 55358,
+         "senior": 10711
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11823,
+         "child": 30088,
+         "adult": 54202,
+         "senior": 8527
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 999,
+         "child": 2427,
+         "adult": 4113,
+         "senior": 693
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1052,
+         "child": 2544,
+         "adult": 4329,
+         "senior": 530
+      }
+   ],
+   "1963": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 26887,
+         "child": 53631,
+         "adult": 67218,
+         "senior": 5310
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 27399,
+         "child": 54460,
+         "adult": 65476,
+         "senior": 4303
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 136037,
+         "child": 302748,
+         "adult": 411708,
+         "senior": 36102
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 143007,
+         "child": 319034,
+         "adult": 434150,
+         "senior": 29683
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27937,
+         "child": 76836,
+         "adult": 187679,
+         "senior": 35378
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29271,
+         "child": 80006,
+         "adult": 164736,
+         "senior": 21729
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 19878,
+         "child": 42458,
+         "adult": 52653,
+         "senior": 4799
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 20376,
+         "child": 43158,
+         "adult": 51896,
+         "senior": 4063
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11183,
+         "child": 29801,
+         "adult": 55915,
+         "senior": 10994
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11678,
+         "child": 30971,
+         "adult": 54780,
+         "senior": 8639
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1010,
+         "child": 2503,
+         "adult": 4188,
+         "senior": 710
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1063,
+         "child": 2623,
+         "adult": 4399,
+         "senior": 535
+      }
+   ],
+   "1964": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 27553,
+         "child": 55216,
+         "adult": 68656,
+         "senior": 5442
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 28077,
+         "child": 56090,
+         "adult": 66858,
+         "senior": 4403
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 141103,
+         "child": 310473,
+         "adult": 417954,
+         "senior": 36637
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 148578,
+         "child": 326973,
+         "adult": 440518,
+         "senior": 30084
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27731,
+         "child": 78433,
+         "adult": 188015,
+         "senior": 36360
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 29059,
+         "child": 81745,
+         "adult": 165836,
+         "senior": 22187
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 20396,
+         "child": 43824,
+         "adult": 53886,
+         "senior": 4974
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 20906,
+         "child": 44538,
+         "adult": 53105,
+         "senior": 4202
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10988,
+         "child": 30558,
+         "adult": 56538,
+         "senior": 11284
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11469,
+         "child": 31791,
+         "adult": 55414,
+         "senior": 8743
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1020,
+         "child": 2576,
+         "adult": 4268,
+         "senior": 726
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1073,
+         "child": 2700,
+         "adult": 4482,
+         "senior": 540
+      }
+   ],
+   "1965": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 28271,
+         "child": 56764,
+         "adult": 70195,
+         "senior": 5570
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 28818,
+         "child": 57683,
+         "adult": 68352,
+         "senior": 4495
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 145887,
+         "child": 318489,
+         "adult": 425547,
+         "senior": 37193
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 153652,
+         "child": 335434,
+         "adult": 448344,
+         "senior": 30427
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27494,
+         "child": 79687,
+         "adult": 188511,
+         "senior": 37382
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28806,
+         "child": 83099,
+         "adult": 167142,
+         "senior": 22662
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 20856,
+         "child": 45199,
+         "adult": 55203,
+         "senior": 5152
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 21380,
+         "child": 45931,
+         "adult": 54397,
+         "senior": 4340
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10776,
+         "child": 31204,
+         "adult": 57217,
+         "senior": 11581
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11244,
+         "child": 32494,
+         "adult": 56097,
+         "senior": 8843
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1033,
+         "child": 2647,
+         "adult": 4361,
+         "senior": 743
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1086,
+         "child": 2773,
+         "adult": 4579,
+         "senior": 545
+      }
+   ],
+   "1966": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 29148,
+         "child": 58454,
+         "adult": 71515,
+         "senior": 5732
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 29728,
+         "child": 59403,
+         "adult": 69639,
+         "senior": 4639
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 152076,
+         "child": 326949,
+         "adult": 431993,
+         "senior": 38515
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 160093,
+         "child": 344352,
+         "adult": 454975,
+         "senior": 31651
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 27211,
+         "child": 80673,
+         "adult": 189075,
+         "senior": 38448
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28530,
+         "child": 84151,
+         "adult": 168358,
+         "senior": 23315
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 21384,
+         "child": 46603,
+         "adult": 56449,
+         "senior": 5338
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 21924,
+         "child": 47342,
+         "adult": 55611,
+         "senior": 4503
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10508,
+         "child": 31790,
+         "adult": 57939,
+         "senior": 11889
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10980,
+         "child": 33023,
+         "adult": 56831,
+         "senior": 9003
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1047,
+         "child": 2724,
+         "adult": 4467,
+         "senior": 756
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1101,
+         "child": 2850,
+         "adult": 4678,
+         "senior": 557
+      }
+   ],
+   "1967": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 29884,
+         "child": 60257,
+         "adult": 72991,
+         "senior": 5887
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 30491,
+         "child": 61255,
+         "adult": 71093,
+         "senior": 4772
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 156746,
+         "child": 336729,
+         "adult": 439886,
+         "senior": 39910
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 164750,
+         "child": 354827,
+         "adult": 463192,
+         "senior": 32881
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 26873,
+         "child": 81319,
+         "adult": 189834,
+         "senior": 39537
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 28167,
+         "child": 84851,
+         "adult": 169807,
+         "senior": 23958
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 21748,
+         "child": 48090,
+         "adult": 57810,
+         "senior": 5530
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 22303,
+         "child": 48843,
+         "adult": 56938,
+         "senior": 4666
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10239,
+         "child": 32249,
+         "adult": 58717,
+         "senior": 12207
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10701,
+         "child": 33459,
+         "adult": 57600,
+         "senior": 9155
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1060,
+         "child": 2797,
+         "adult": 4588,
+         "senior": 768
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1115,
+         "child": 2926,
+         "adult": 4795,
+         "senior": 568
+      }
+   ],
+   "1968": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 30551,
+         "child": 62124,
+         "adult": 74612,
+         "senior": 6035
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 31181,
+         "child": 63183,
+         "adult": 72692,
+         "senior": 4901
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 160183,
+         "child": 347371,
+         "adult": 449098,
+         "senior": 41346
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 167982,
+         "child": 366317,
+         "adult": 472877,
+         "senior": 34095
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 26514,
+         "child": 81689,
+         "adult": 190737,
+         "senior": 40644
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 27761,
+         "child": 85265,
+         "adult": 171440,
+         "senior": 24586
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 21997,
+         "child": 49622,
+         "adult": 59272,
+         "senior": 5723
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 22564,
+         "child": 50396,
+         "adult": 58364,
+         "senior": 4828
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9984,
+         "child": 32583,
+         "adult": 59546,
+         "senior": 12537
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10432,
+         "child": 33832,
+         "adult": 58368,
+         "senior": 9300
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1075,
+         "child": 2864,
+         "adult": 4720,
+         "senior": 781
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1128,
+         "child": 2994,
+         "adult": 4922,
+         "senior": 578
+      }
+   ],
+   "1969": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 31238,
+         "child": 63988,
+         "adult": 76363,
+         "senior": 6181
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 31891,
+         "child": 65119,
+         "adult": 74411,
+         "senior": 5024
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 163015,
+         "child": 358000,
+         "adult": 459446,
+         "senior": 42780
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 170623,
+         "child": 377759,
+         "adult": 483826,
+         "senior": 35256
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 26175,
+         "child": 81909,
+         "adult": 191695,
+         "senior": 41775
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 27371,
+         "child": 85518,
+         "adult": 173144,
+         "senior": 25203
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 22213,
+         "child": 51139,
+         "adult": 60823,
+         "senior": 5921
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 22791,
+         "child": 51934,
+         "adult": 59876,
+         "senior": 4989
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9750,
+         "child": 32813,
+         "adult": 60415,
+         "senior": 12875
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10188,
+         "child": 34154,
+         "adult": 59155,
+         "senior": 9436
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1089,
+         "child": 2925,
+         "adult": 4853,
+         "senior": 793
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1142,
+         "child": 3058,
+         "adult": 5055,
+         "senior": 589
+      }
+   ],
+   "1970": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 32033,
+         "child": 65781,
+         "adult": 78233,
+         "senior": 6322
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 32708,
+         "child": 66987,
+         "adult": 76241,
+         "senior": 5142
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 165770,
+         "child": 367774,
+         "adult": 470886,
+         "senior": 44194
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 173364,
+         "child": 388158,
+         "adult": 495976,
+         "senior": 36357
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25886,
+         "child": 82062,
+         "adult": 192637,
+         "senior": 42934
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 27048,
+         "child": 85687,
+         "adult": 174853,
+         "senior": 25811
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 22460,
+         "child": 52581,
+         "adult": 62456,
+         "senior": 6123
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 23049,
+         "child": 53393,
+         "adult": 61467,
+         "senior": 5146
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9535,
+         "child": 32965,
+         "adult": 61320,
+         "senior": 13218
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9969,
+         "child": 34425,
+         "adult": 59999,
+         "senior": 9560
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1102,
+         "child": 2981,
+         "adult": 4983,
+         "senior": 807
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1155,
+         "child": 3116,
+         "adult": 5180,
+         "senior": 598
+      }
+   ],
+   "1971": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 32978,
+         "child": 67707,
+         "adult": 79918,
+         "senior": 6520
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 33667,
+         "child": 68948,
+         "adult": 77925,
+         "senior": 5317
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 168904,
+         "child": 376894,
+         "adult": 482433,
+         "senior": 45850
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 176508,
+         "child": 397787,
+         "adult": 508210,
+         "senior": 37867
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25539,
+         "child": 82149,
+         "adult": 193674,
+         "senior": 44139
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26713,
+         "child": 85769,
+         "adult": 176491,
+         "senior": 26582
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 22695,
+         "child": 54004,
+         "adult": 64147,
+         "senior": 6347
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 23307,
+         "child": 54814,
+         "adult": 63091,
+         "senior": 5334
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9248,
+         "child": 33088,
+         "adult": 62306,
+         "senior": 13570
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9648,
+         "child": 34573,
+         "adult": 61023,
+         "senior": 9758
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1115,
+         "child": 3031,
+         "adult": 5095,
+         "senior": 832
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1169,
+         "child": 3170,
+         "adult": 5289,
+         "senior": 617
+      }
+   ],
+   "1972": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 33872,
+         "child": 69710,
+         "adult": 81750,
+         "senior": 6715
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 34581,
+         "child": 70986,
+         "adult": 79741,
+         "senior": 5484
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 170531,
+         "child": 385962,
+         "adult": 495618,
+         "senior": 47508
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 178384,
+         "child": 407144,
+         "adult": 522163,
+         "senior": 39328
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25362,
+         "child": 82069,
+         "adult": 194748,
+         "senior": 45301
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26540,
+         "child": 85689,
+         "adult": 178172,
+         "senior": 27283
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 22945,
+         "child": 55365,
+         "adult": 65929,
+         "senior": 6566
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 23574,
+         "child": 56175,
+         "adult": 64802,
+         "senior": 5514
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9091,
+         "child": 33070,
+         "adult": 63289,
+         "senior": 13921
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9485,
+         "child": 34539,
+         "adult": 62122,
+         "senior": 9931
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1131,
+         "child": 3076,
+         "adult": 5201,
+         "senior": 855
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1186,
+         "child": 3219,
+         "adult": 5392,
+         "senior": 633
+      }
+   ],
+   "1973": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 34763,
+         "child": 71758,
+         "adult": 83720,
+         "senior": 6904
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 35494,
+         "child": 73073,
+         "adult": 81691,
+         "senior": 5641
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 171095,
+         "child": 394981,
+         "adult": 509834,
+         "senior": 49159
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 179365,
+         "child": 416307,
+         "adult": 537211,
+         "senior": 40741
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25296,
+         "child": 81832,
+         "adult": 195850,
+         "senior": 46452
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26476,
+         "child": 85460,
+         "adult": 179917,
+         "senior": 27924
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 23218,
+         "child": 56658,
+         "adult": 67795,
+         "senior": 6793
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 23859,
+         "child": 57475,
+         "adult": 66594,
+         "senior": 5687
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9022,
+         "child": 32925,
+         "adult": 64299,
+         "senior": 14288
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9424,
+         "child": 34360,
+         "adult": 63291,
+         "senior": 10093
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1147,
+         "child": 3115,
+         "adult": 5305,
+         "senior": 878
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1202,
+         "child": 3263,
+         "adult": 5489,
+         "senior": 650
+      }
+   ],
+   "1974": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 35694,
+         "child": 73819,
+         "adult": 85836,
+         "senior": 7090
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 36448,
+         "child": 75179,
+         "adult": 83788,
+         "senior": 5791
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 170954,
+         "child": 404143,
+         "adult": 524360,
+         "senior": 50816
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 179632,
+         "child": 425617,
+         "adult": 552624,
+         "senior": 42134
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25239,
+         "child": 81465,
+         "adult": 196983,
+         "senior": 47643
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26420,
+         "child": 85105,
+         "adult": 181761,
+         "senior": 28518
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 23506,
+         "child": 57897,
+         "adult": 69734,
+         "senior": 7024
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 24162,
+         "child": 58730,
+         "adult": 68464,
+         "senior": 5863
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8984,
+         "child": 32677,
+         "adult": 65380,
+         "senior": 14673
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9399,
+         "child": 34072,
+         "adult": 64535,
+         "senior": 10252
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1156,
+         "child": 3149,
+         "adult": 5412,
+         "senior": 903
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1212,
+         "child": 3301,
+         "adult": 5591,
+         "senior": 663
+      }
+   ],
+   "1975": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 36719,
+         "child": 75851,
+         "adult": 88101,
+         "senior": 7268
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 37504,
+         "child": 77260,
+         "adult": 86039,
+         "senior": 5933
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 170471,
+         "child": 413369,
+         "adult": 538793,
+         "senior": 52485
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 179415,
+         "child": 435119,
+         "adult": 567991,
+         "senior": 43529
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25125,
+         "child": 81002,
+         "adult": 198142,
+         "senior": 48881
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26303,
+         "child": 84651,
+         "adult": 183725,
+         "senior": 29067
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 23810,
+         "child": 59090,
+         "adult": 71739,
+         "senior": 7265
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 24487,
+         "child": 59948,
+         "adult": 70401,
+         "senior": 6037
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8938,
+         "child": 32355,
+         "adult": 66554,
+         "senior": 15068
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9365,
+         "child": 33708,
+         "adult": 65855,
+         "senior": 10407
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1158,
+         "child": 3176,
+         "adult": 5523,
+         "senior": 928
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1214,
+         "child": 3331,
+         "adult": 5697,
+         "senior": 681
+      }
+   ],
+   "1976": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 37933,
+         "child": 77985,
+         "adult": 90245,
+         "senior": 7488
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 38771,
+         "child": 79383,
+         "adult": 88209,
+         "senior": 6133
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 169278,
+         "child": 423297,
+         "adult": 552452,
+         "senior": 54488
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 178569,
+         "child": 445360,
+         "adult": 582365,
+         "senior": 45374
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 25108,
+         "child": 80560,
+         "adult": 199034,
+         "senior": 50187
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26303,
+         "child": 84176,
+         "adult": 185316,
+         "senior": 29814
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 24158,
+         "child": 60215,
+         "adult": 73778,
+         "senior": 7534
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 24866,
+         "child": 61118,
+         "adult": 72342,
+         "senior": 6259
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8974,
+         "child": 32000,
+         "adult": 67740,
+         "senior": 15438
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9473,
+         "child": 33497,
+         "adult": 66758,
+         "senior": 10672
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1170,
+         "child": 3204,
+         "adult": 5615,
+         "senior": 954
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1228,
+         "child": 3357,
+         "adult": 5781,
+         "senior": 704
+      }
+   ],
+   "1977": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 39045,
+         "child": 80247,
+         "adult": 92581,
+         "senior": 7702
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 39923,
+         "child": 81672,
+         "adult": 90558,
+         "senior": 6324
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 167727,
+         "child": 433141,
+         "adult": 566173,
+         "senior": 56487
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 177095,
+         "child": 455685,
+         "adult": 596931,
+         "senior": 47207
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24949,
+         "child": 80096,
+         "adult": 199967,
+         "senior": 51544
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 26137,
+         "child": 83686,
+         "adult": 187055,
+         "senior": 30525
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 24514,
+         "child": 61323,
+         "adult": 75862,
+         "senior": 7812
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 25253,
+         "child": 62285,
+         "adult": 74333,
+         "senior": 6479
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8956,
+         "child": 31619,
+         "adult": 69033,
+         "senior": 15816
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9493,
+         "child": 33281,
+         "adult": 67740,
+         "senior": 10943
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1160,
+         "child": 3235,
+         "adult": 5718,
+         "senior": 984
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1219,
+         "child": 3388,
+         "adult": 5875,
+         "senior": 725
+      }
+   ],
+   "1978": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 40113,
+         "child": 82602,
+         "adult": 95093,
+         "senior": 7913
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 41022,
+         "child": 84086,
+         "adult": 93063,
+         "senior": 6510
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 166197,
+         "child": 442518,
+         "adult": 580211,
+         "senior": 58490
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 175462,
+         "child": 465661,
+         "adult": 611907,
+         "senior": 49021
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24697,
+         "child": 79607,
+         "adult": 201034,
+         "senior": 52823
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25863,
+         "child": 83175,
+         "adult": 188973,
+         "senior": 31113
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 24874,
+         "child": 62410,
+         "adult": 78009,
+         "senior": 8093
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 25641,
+         "child": 63441,
+         "adult": 76384,
+         "senior": 6694
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8907,
+         "child": 31213,
+         "adult": 70384,
+         "senior": 16207
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9459,
+         "child": 33065,
+         "adult": 68773,
+         "senior": 11229
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1139,
+         "child": 3271,
+         "adult": 5823,
+         "senior": 1015
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1196,
+         "child": 3422,
+         "adult": 5977,
+         "senior": 748
+      }
+   ],
+   "1979": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 41205,
+         "child": 85000,
+         "adult": 97758,
+         "senior": 8128
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 42142,
+         "child": 86562,
+         "adult": 95695,
+         "senior": 6694
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 165211,
+         "child": 450940,
+         "adult": 594927,
+         "senior": 60483
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 174382,
+         "child": 474679,
+         "adult": 627574,
+         "senior": 50793
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24450,
+         "child": 79072,
+         "adult": 202369,
+         "senior": 53812
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25592,
+         "child": 82618,
+         "adult": 191120,
+         "senior": 31451
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25231,
+         "child": 63470,
+         "adult": 80257,
+         "senior": 8374
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26020,
+         "child": 64568,
+         "adult": 78525,
+         "senior": 6902
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8877,
+         "child": 30777,
+         "adult": 71732,
+         "senior": 16611
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9433,
+         "child": 32828,
+         "adult": 69834,
+         "senior": 11519
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1119,
+         "child": 3304,
+         "adult": 5936,
+         "senior": 1045
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1177,
+         "child": 3457,
+         "adult": 6083,
+         "senior": 769
+      }
+   ],
+   "1980": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 42392,
+         "child": 87381,
+         "adult": 100569,
+         "senior": 8347
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 43358,
+         "child": 89021,
+         "adult": 98446,
+         "senior": 6875
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 165151,
+         "child": 458127,
+         "adult": 610506,
+         "senior": 62462
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 174361,
+         "child": 482366,
+         "adult": 644084,
+         "senior": 52522
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24289,
+         "child": 78457,
+         "adult": 204038,
+         "senior": 54408
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25418,
+         "child": 81977,
+         "adult": 193505,
+         "senior": 31478
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25584,
+         "child": 64492,
+         "adult": 82624,
+         "senior": 8651
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26389,
+         "child": 65643,
+         "adult": 80770,
+         "senior": 7097
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8905,
+         "child": 30302,
+         "adult": 73037,
+         "senior": 17022
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9467,
+         "child": 32545,
+         "adult": 70921,
+         "senior": 11806
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1112,
+         "child": 3334,
+         "adult": 6049,
+         "senior": 1073
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1171,
+         "child": 3488,
+         "adult": 6194,
+         "senior": 788
+      }
+   ],
+   "1981": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 43752,
+         "child": 89967,
+         "adult": 103186,
+         "senior": 8600
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 44755,
+         "child": 91662,
+         "adult": 100987,
+         "senior": 7095
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 165006,
+         "child": 465074,
+         "adult": 626713,
+         "senior": 64689
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 174156,
+         "child": 489910,
+         "adult": 661034,
+         "senior": 54644
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24175,
+         "child": 77866,
+         "adult": 205939,
+         "senior": 54639
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25290,
+         "child": 81328,
+         "adult": 195819,
+         "senior": 31460
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25999,
+         "child": 65490,
+         "adult": 85038,
+         "senior": 8932
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26840,
+         "child": 66619,
+         "adult": 83043,
+         "senior": 7314
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 8996,
+         "child": 29890,
+         "adult": 74243,
+         "senior": 17387
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9577,
+         "child": 32060,
+         "adult": 72207,
+         "senior": 12057
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1098,
+         "child": 3360,
+         "adult": 6183,
+         "senior": 1104
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1158,
+         "child": 3514,
+         "adult": 6329,
+         "senior": 812
+      }
+   ],
+   "1982": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 44993,
+         "child": 92701,
+         "adult": 105998,
+         "senior": 8850
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 46034,
+         "child": 94451,
+         "adult": 103703,
+         "senior": 7306
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 166647,
+         "child": 470515,
+         "adult": 643237,
+         "senior": 66811
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 176037,
+         "child": 495750,
+         "adult": 678198,
+         "senior": 56642
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24136,
+         "child": 77221,
+         "adult": 208169,
+         "senior": 54458
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25248,
+         "child": 80631,
+         "adult": 198308,
+         "senior": 31155
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26324,
+         "child": 66506,
+         "adult": 87598,
+         "senior": 9209
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27189,
+         "child": 67611,
+         "adult": 85443,
+         "senior": 7517
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9116,
+         "child": 29476,
+         "adult": 75417,
+         "senior": 17741
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9681,
+         "child": 31591,
+         "adult": 73543,
+         "senior": 12283
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1108,
+         "child": 3375,
+         "adult": 6318,
+         "senior": 1132
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1169,
+         "child": 3533,
+         "adult": 6467,
+         "senior": 833
+      }
+   ],
+   "1983": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 46167,
+         "child": 95544,
+         "adult": 108983,
+         "senior": 9104
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 47245,
+         "child": 97350,
+         "adult": 106576,
+         "senior": 7510
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 169619,
+         "child": 474632,
+         "adult": 660459,
+         "senior": 68881
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 179473,
+         "child": 500147,
+         "adult": 696026,
+         "senior": 58548
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24155,
+         "child": 76550,
+         "adult": 210503,
+         "senior": 54099
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25274,
+         "child": 79926,
+         "adult": 200843,
+         "senior": 30720
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26578,
+         "child": 67530,
+         "adult": 90266,
+         "senior": 9489
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27462,
+         "child": 68621,
+         "adult": 87927,
+         "senior": 7717
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9265,
+         "child": 29085,
+         "adult": 76539,
+         "senior": 18099
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9791,
+         "child": 31164,
+         "adult": 74873,
+         "senior": 12501
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1134,
+         "child": 3384,
+         "adult": 6452,
+         "senior": 1160
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1196,
+         "child": 3545,
+         "adult": 6605,
+         "senior": 853
+      }
+   ],
+   "1984": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 47326,
+         "child": 98449,
+         "adult": 112129,
+         "senior": 9358
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 48441,
+         "child": 100320,
+         "adult": 109608,
+         "senior": 7711
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173291,
+         "child": 477733,
+         "adult": 678820,
+         "senior": 70965
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 183688,
+         "child": 503543,
+         "adult": 715066,
+         "senior": 60391
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24178,
+         "child": 75910,
+         "adult": 212625,
+         "senior": 53899
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25309,
+         "child": 79270,
+         "adult": 203256,
+         "senior": 30362
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26790,
+         "child": 68547,
+         "adult": 92983,
+         "senior": 9780
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27695,
+         "child": 69647,
+         "adult": 90447,
+         "senior": 7915
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9424,
+         "child": 28745,
+         "adult": 77601,
+         "senior": 18479
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 9909,
+         "child": 30797,
+         "adult": 76144,
+         "senior": 12721
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1162,
+         "child": 3389,
+         "adult": 6592,
+         "senior": 1190
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1226,
+         "child": 3555,
+         "adult": 6752,
+         "senior": 873
+      }
+   ],
+   "1985": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 48538,
+         "child": 101353,
+         "adult": 115428,
+         "senior": 9620
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 49689,
+         "child": 103294,
+         "adult": 112792,
+         "senior": 7910
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 177267,
+         "child": 480142,
+         "adult": 698433,
+         "senior": 73095
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 188185,
+         "child": 506370,
+         "adult": 735483,
+         "senior": 62199
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24169,
+         "child": 75339,
+         "adult": 214344,
+         "senior": 54057
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25313,
+         "child": 78705,
+         "adult": 205457,
+         "senior": 30203
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26990,
+         "child": 69536,
+         "adult": 95715,
+         "senior": 10088
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27918,
+         "child": 70671,
+         "adult": 92979,
+         "senior": 8125
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9584,
+         "child": 28480,
+         "adult": 78600,
+         "senior": 18884
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10043,
+         "child": 30497,
+         "adult": 77335,
+         "senior": 12943
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1183,
+         "child": 3399,
+         "adult": 6732,
+         "senior": 1225
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1249,
+         "child": 3568,
+         "adult": 6897,
+         "senior": 896
+      }
+   ],
+   "1986": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 49908,
+         "child": 104441,
+         "adult": 118550,
+         "senior": 9925
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 51122,
+         "child": 106372,
+         "adult": 115827,
+         "senior": 8184
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 183106,
+         "child": 482233,
+         "adult": 717403,
+         "senior": 75348
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 194649,
+         "child": 508985,
+         "adult": 755010,
+         "senior": 64329
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24201,
+         "child": 74920,
+         "adult": 215456,
+         "senior": 54621
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25368,
+         "child": 78225,
+         "adult": 207094,
+         "senior": 30536
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27211,
+         "child": 70487,
+         "adult": 98412,
+         "senior": 10423
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28132,
+         "child": 71673,
+         "adult": 95500,
+         "senior": 8386
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9793,
+         "child": 28383,
+         "adult": 79474,
+         "senior": 19241
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10219,
+         "child": 30289,
+         "adult": 78332,
+         "senior": 13227
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1217,
+         "child": 3412,
+         "adult": 6865,
+         "senior": 1257
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1284,
+         "child": 3581,
+         "adult": 7030,
+         "senior": 926
+      }
+   ],
+   "1987": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 51103,
+         "child": 107692,
+         "adult": 121879,
+         "senior": 10230
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 52360,
+         "child": 109652,
+         "adult": 119056,
+         "senior": 8453
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 188154,
+         "child": 484645,
+         "adult": 737695,
+         "senior": 77614
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 200283,
+         "child": 512058,
+         "adult": 775973,
+         "senior": 66387
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24167,
+         "child": 74600,
+         "adult": 216237,
+         "senior": 55472
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25347,
+         "child": 77870,
+         "adult": 208587,
+         "senior": 31003
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27364,
+         "child": 71448,
+         "adult": 101134,
+         "senior": 10770
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28306,
+         "child": 72693,
+         "adult": 98044,
+         "senior": 8646
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 9961,
+         "child": 28394,
+         "adult": 80312,
+         "senior": 19610
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10384,
+         "child": 30173,
+         "adult": 79273,
+         "senior": 13499
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1234,
+         "child": 3435,
+         "adult": 7007,
+         "senior": 1296
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1302,
+         "child": 3606,
+         "adult": 7167,
+         "senior": 957
+      }
+   ],
+   "1988": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 52180,
+         "child": 111035,
+         "adult": 125397,
+         "senior": 10535
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 53468,
+         "child": 113065,
+         "adult": 122449,
+         "senior": 8718
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 192205,
+         "child": 487475,
+         "adult": 758838,
+         "senior": 79903
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 204871,
+         "child": 515656,
+         "adult": 797856,
+         "senior": 68419
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 24047,
+         "child": 74358,
+         "adult": 216774,
+         "senior": 56523
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 25232,
+         "child": 77608,
+         "adult": 209932,
+         "senior": 31583
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27471,
+         "child": 72410,
+         "adult": 103876,
+         "senior": 11128
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28451,
+         "child": 73720,
+         "adult": 100598,
+         "senior": 8909
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10099,
+         "child": 28490,
+         "adult": 81115,
+         "senior": 19990
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10541,
+         "child": 30140,
+         "adult": 80168,
+         "senior": 13759
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1239,
+         "child": 3465,
+         "adult": 7152,
+         "senior": 1334
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1308,
+         "child": 3639,
+         "adult": 7306,
+         "senior": 991
+      }
+   ],
+   "1989": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 53189,
+         "child": 114391,
+         "adult": 129087,
+         "senior": 10846
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 54502,
+         "child": 116518,
+         "adult": 125997,
+         "senior": 8980
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 194878,
+         "child": 490778,
+         "adult": 780379,
+         "senior": 82241
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 208044,
+         "child": 519760,
+         "adult": 820136,
+         "senior": 70487
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 23815,
+         "child": 74149,
+         "adult": 217236,
+         "senior": 57639
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 24996,
+         "child": 77383,
+         "adult": 211156,
+         "senior": 32244
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27556,
+         "child": 73358,
+         "adult": 106633,
+         "senior": 11507
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28570,
+         "child": 74744,
+         "adult": 103159,
+         "senior": 9180
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10221,
+         "child": 28636,
+         "adult": 81889,
+         "senior": 20365
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10691,
+         "child": 30179,
+         "adult": 81049,
+         "senior": 13998
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1243,
+         "child": 3497,
+         "adult": 7297,
+         "senior": 1373
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1313,
+         "child": 3676,
+         "adult": 7445,
+         "senior": 1023
+      }
+   ],
+   "1990": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 54183,
+         "child": 117675,
+         "adult": 132951,
+         "senior": 11164
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 55525,
+         "child": 119907,
+         "adult": 129704,
+         "senior": 9242
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 196040,
+         "child": 494335,
+         "adult": 802086,
+         "senior": 84669
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 209674,
+         "child": 524096,
+         "adult": 842547,
+         "senior": 72650
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 23454,
+         "child": 73929,
+         "adult": 217727,
+         "senior": 58744
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 24626,
+         "child": 77138,
+         "adult": 212280,
+         "senior": 32962
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27635,
+         "child": 74277,
+         "adult": 109411,
+         "senior": 11911
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28670,
+         "child": 75746,
+         "adult": 105732,
+         "senior": 9460
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10340,
+         "child": 28803,
+         "adult": 82646,
+         "senior": 20727
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10831,
+         "child": 30279,
+         "adult": 81941,
+         "senior": 14217
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1253,
+         "child": 3525,
+         "adult": 7442,
+         "senior": 1411
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1323,
+         "child": 3708,
+         "adult": 7583,
+         "senior": 1055
+      }
+   ],
+   "1991": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 55270,
+         "child": 121037,
+         "adult": 136677,
+         "senior": 11526
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 56648,
+         "child": 123306,
+         "adult": 133322,
+         "senior": 9559
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 197795,
+         "child": 497959,
+         "adult": 821733,
+         "senior": 87266
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 211944,
+         "child": 528500,
+         "adult": 862610,
+         "senior": 75138
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 23083,
+         "child": 73738,
+         "adult": 218084,
+         "senior": 59845
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 24259,
+         "child": 76939,
+         "adult": 212839,
+         "senior": 33988
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27697,
+         "child": 75134,
+         "adult": 112241,
+         "senior": 12344
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28764,
+         "child": 76633,
+         "adult": 108335,
+         "senior": 9799
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10481,
+         "child": 29069,
+         "adult": 83357,
+         "senior": 20988
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10974,
+         "child": 30498,
+         "adult": 82725,
+         "senior": 14457
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1261,
+         "child": 3550,
+         "adult": 7589,
+         "senior": 1449
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1332,
+         "child": 3733,
+         "adult": 7721,
+         "senior": 1090
+      }
+   ],
+   "1992": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 56160,
+         "child": 124466,
+         "adult": 140627,
+         "senior": 11887
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 57563,
+         "child": 126791,
+         "adult": 137152,
+         "senior": 9866
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 195395,
+         "child": 503072,
+         "adult": 842785,
+         "senior": 90022
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 209971,
+         "child": 534413,
+         "adult": 884114,
+         "senior": 77738
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 22464,
+         "child": 73578,
+         "adult": 218531,
+         "senior": 60961
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 23626,
+         "child": 76778,
+         "adult": 213401,
+         "senior": 35053
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27759,
+         "child": 75976,
+         "adult": 115064,
+         "senior": 12795
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28841,
+         "child": 77521,
+         "adult": 110918,
+         "senior": 10144
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10590,
+         "child": 29384,
+         "adult": 84064,
+         "senior": 21225
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11086,
+         "child": 30802,
+         "adult": 83512,
+         "senior": 14675
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1274,
+         "child": 3568,
+         "adult": 7738,
+         "senior": 1484
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1347,
+         "child": 3754,
+         "adult": 7857,
+         "senior": 1125
+      }
+   ],
+   "1993": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 56939,
+         "child": 127894,
+         "adult": 144784,
+         "senior": 12247
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 58361,
+         "child": 130291,
+         "adult": 141185,
+         "senior": 10165
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 190395,
+         "child": 509292,
+         "adult": 864342,
+         "senior": 92900
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 205317,
+         "child": 541462,
+         "adult": 906142,
+         "senior": 80392
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 21695,
+         "child": 73412,
+         "adult": 219041,
+         "senior": 62022
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 22831,
+         "child": 76622,
+         "adult": 213955,
+         "senior": 36077
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27817,
+         "child": 76796,
+         "adult": 117894,
+         "senior": 13256
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28899,
+         "child": 78404,
+         "adult": 113501,
+         "senior": 10489
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10668,
+         "child": 29739,
+         "adult": 84801,
+         "senior": 21441
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11166,
+         "child": 31181,
+         "adult": 84332,
+         "senior": 14875
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1292,
+         "child": 3584,
+         "adult": 7883,
+         "senior": 1521
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1367,
+         "child": 3772,
+         "adult": 7992,
+         "senior": 1157
+      }
+   ],
+   "1994": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 57728,
+         "child": 131236,
+         "adult": 149128,
+         "senior": 12612
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 59169,
+         "child": 133717,
+         "adult": 145394,
+         "senior": 10461
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 185143,
+         "child": 515975,
+         "adult": 885157,
+         "senior": 95845
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 200334,
+         "child": 549025,
+         "adult": 927426,
+         "senior": 83011
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 20916,
+         "child": 73192,
+         "adult": 219570,
+         "senior": 62939
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 22023,
+         "child": 76424,
+         "adult": 214499,
+         "senior": 36963
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27861,
+         "child": 77578,
+         "adult": 120755,
+         "senior": 13717
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28941,
+         "child": 79266,
+         "adult": 116110,
+         "senior": 10826
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10711,
+         "child": 30135,
+         "adult": 85614,
+         "senior": 21650
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11209,
+         "child": 31617,
+         "adult": 85236,
+         "senior": 15056
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1309,
+         "child": 3602,
+         "adult": 8023,
+         "senior": 1553
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1385,
+         "child": 3794,
+         "adult": 8124,
+         "senior": 1188
+      }
+   ],
+   "1995": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 58645,
+         "child": 134400,
+         "adult": 153646,
+         "senior": 12980
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 60112,
+         "child": 136966,
+         "adult": 149765,
+         "senior": 10756
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 181323,
+         "child": 522328,
+         "adult": 904638,
+         "senior": 98847
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 196721,
+         "child": 556303,
+         "adult": 947368,
+         "senior": 85557
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 20215,
+         "child": 72873,
+         "adult": 220106,
+         "senior": 63664
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 21295,
+         "child": 76136,
+         "adult": 215044,
+         "senior": 37661
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27886,
+         "child": 78300,
+         "adult": 123666,
+         "senior": 14183
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28973,
+         "child": 80082,
+         "adult": 118772,
+         "senior": 11155
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10726,
+         "child": 30550,
+         "adult": 86542,
+         "senior": 21855
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11225,
+         "child": 32080,
+         "adult": 86253,
+         "senior": 15219
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1321,
+         "child": 3626,
+         "adult": 8163,
+         "senior": 1585
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1400,
+         "child": 3822,
+         "adult": 8257,
+         "senior": 1217
+      }
+   ],
+   "1996": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 59787,
+         "child": 137794,
+         "adult": 157806,
+         "senior": 13392
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 61292,
+         "child": 140370,
+         "adult": 153832,
+         "senior": 11091
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174996,
+         "child": 529203,
+         "adult": 925405,
+         "senior": 102434
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190600,
+         "child": 564278,
+         "adult": 968110,
+         "senior": 88821
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19302,
+         "child": 72492,
+         "adult": 220733,
+         "senior": 64346
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20343,
+         "child": 75755,
+         "adult": 215520,
+         "senior": 38530
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27924,
+         "child": 78891,
+         "adult": 126648,
+         "senior": 14668
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 29030,
+         "child": 80740,
+         "adult": 121511,
+         "senior": 11533
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10774,
+         "child": 31036,
+         "adult": 87546,
+         "senior": 22004
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11265,
+         "child": 32582,
+         "adult": 87304,
+         "senior": 15405
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1336,
+         "child": 3651,
+         "adult": 8296,
+         "senior": 1613
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1420,
+         "child": 3847,
+         "adult": 8388,
+         "senior": 1247
+      }
+   ],
+   "1997": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 60934,
+         "child": 141147,
+         "adult": 162153,
+         "senior": 13795
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 62477,
+         "child": 143742,
+         "adult": 158083,
+         "senior": 11407
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 172921,
+         "child": 534167,
+         "adult": 943764,
+         "senior": 105876
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 188685,
+         "child": 570345,
+         "adult": 986454,
+         "senior": 91822
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18719,
+         "child": 71874,
+         "adult": 221341,
+         "senior": 64759
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19731,
+         "child": 75140,
+         "adult": 215927,
+         "senior": 39180
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27932,
+         "child": 79423,
+         "adult": 129689,
+         "senior": 15148
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 29049,
+         "child": 81362,
+         "adult": 124317,
+         "senior": 11901
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10715,
+         "child": 31566,
+         "adult": 88715,
+         "senior": 22151
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11200,
+         "child": 33133,
+         "adult": 88524,
+         "senior": 15579
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1344,
+         "child": 3685,
+         "adult": 8426,
+         "senior": 1642
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1431,
+         "child": 3886,
+         "adult": 8513,
+         "senior": 1276
+      }
+   ],
+   "1998": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 62125,
+         "child": 144423,
+         "adult": 166706,
+         "senior": 14190
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 63708,
+         "child": 147046,
+         "adult": 162535,
+         "senior": 11704
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173778,
+         "child": 537240,
+         "adult": 960870,
+         "senior": 109260
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 189681,
+         "child": 574544,
+         "adult": 1003625,
+         "senior": 94662
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18378,
+         "child": 71034,
+         "adult": 221956,
+         "senior": 65055
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19371,
+         "child": 74305,
+         "adult": 216327,
+         "senior": 39715
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27909,
+         "child": 79903,
+         "adult": 132765,
+         "senior": 15633
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 29037,
+         "child": 81947,
+         "adult": 127167,
+         "senior": 12262
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10600,
+         "child": 32107,
+         "adult": 89977,
+         "senior": 22296
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11080,
+         "child": 33699,
+         "adult": 89825,
+         "senior": 15741
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1348,
+         "child": 3724,
+         "adult": 8555,
+         "senior": 1666
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1437,
+         "child": 3935,
+         "adult": 8638,
+         "senior": 1302
+      }
+   ],
+   "1999": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 63374,
+         "child": 147590,
+         "adult": 171492,
+         "senior": 14576
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 65002,
+         "child": 150260,
+         "adult": 167231,
+         "senior": 11977
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175122,
+         "child": 538895,
+         "adult": 978485,
+         "senior": 112724
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191186,
+         "child": 577373,
+         "adult": 1021464,
+         "senior": 97488
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18140,
+         "child": 70029,
+         "adult": 222581,
+         "senior": 65451
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19117,
+         "child": 73306,
+         "adult": 216798,
+         "senior": 40279
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27857,
+         "child": 80325,
+         "adult": 135854,
+         "senior": 16132
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28992,
+         "child": 82481,
+         "adult": 130031,
+         "senior": 12626
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10496,
+         "child": 32607,
+         "adult": 91234,
+         "senior": 22430
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10975,
+         "child": 34231,
+         "adult": 91114,
+         "senior": 15894
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1351,
+         "child": 3766,
+         "adult": 8683,
+         "senior": 1692
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1442,
+         "child": 3990,
+         "adult": 8758,
+         "senior": 1331
+      }
+   ],
+   "2000": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 64712,
+         "child": 150619,
+         "adult": 176539,
+         "senior": 14952
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 66395,
+         "child": 153352,
+         "adult": 172195,
+         "senior": 12223
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175324,
+         "child": 539886,
+         "adult": 997371,
+         "senior": 116318
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191585,
+         "child": 579605,
+         "adult": 1040803,
+         "senior": 100371
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17918,
+         "child": 68936,
+         "adult": 223207,
+         "senior": 66072
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18883,
+         "child": 72218,
+         "adult": 217383,
+         "senior": 40941
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27775,
+         "child": 80685,
+         "adult": 138950,
+         "senior": 16654
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28914,
+         "child": 82945,
+         "adult": 132916,
+         "senior": 13000
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10440,
+         "child": 33022,
+         "adult": 92428,
+         "senior": 22559
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10920,
+         "child": 34679,
+         "adult": 92336,
+         "senior": 16044
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1354,
+         "child": 3807,
+         "adult": 8816,
+         "senior": 1721
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1445,
+         "child": 4044,
+         "adult": 8881,
+         "senior": 1360
+      }
+   ],
+   "2001": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 66347,
+         "child": 153679,
+         "adult": 181427,
+         "senior": 15361
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 68108,
+         "child": 156427,
+         "adult": 177018,
+         "senior": 12531
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 177361,
+         "child": 540577,
+         "adult": 1014444,
+         "senior": 119795
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 193710,
+         "child": 581303,
+         "adult": 1058449,
+         "senior": 103647
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17874,
+         "child": 67818,
+         "adult": 223627,
+         "senior": 66924
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18839,
+         "child": 71068,
+         "adult": 217693,
+         "senior": 41929
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27692,
+         "child": 80948,
+         "adult": 142046,
+         "senior": 17197
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28823,
+         "child": 83234,
+         "adult": 135834,
+         "senior": 13436
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10315,
+         "child": 33377,
+         "adult": 93628,
+         "senior": 22680
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10782,
+         "child": 35075,
+         "adult": 93467,
+         "senior": 16290
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1353,
+         "child": 3852,
+         "adult": 8950,
+         "senior": 1745
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1440,
+         "child": 4095,
+         "adult": 9009,
+         "senior": 1392
+      }
+   ],
+   "2002": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 67831,
+         "child": 156842,
+         "adult": 186614,
+         "senior": 15752
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 69652,
+         "child": 159654,
+         "adult": 182144,
+         "senior": 12810
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 177257,
+         "child": 541581,
+         "adult": 1032914,
+         "senior": 123365
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 193815,
+         "child": 583360,
+         "adult": 1077630,
+         "senior": 106956
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17809,
+         "child": 66655,
+         "adult": 224083,
+         "senior": 67972
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18772,
+         "child": 69875,
+         "adult": 218154,
+         "senior": 42989
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27562,
+         "child": 81152,
+         "adult": 145166,
+         "senior": 17759
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28686,
+         "child": 83463,
+         "adult": 138777,
+         "senior": 13878
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10347,
+         "child": 33589,
+         "adult": 94732,
+         "senior": 22779
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10816,
+         "child": 35317,
+         "adult": 94482,
+         "senior": 16524
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1353,
+         "child": 3888,
+         "adult": 9094,
+         "senior": 1776
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1438,
+         "child": 4137,
+         "adult": 9144,
+         "senior": 1426
+      }
+   ],
+   "2003": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 69247,
+         "child": 160094,
+         "adult": 192059,
+         "senior": 16130
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 71118,
+         "child": 163005,
+         "adult": 187534,
+         "senior": 13061
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175637,
+         "child": 542593,
+         "adult": 1052617,
+         "senior": 126952
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192463,
+         "child": 585450,
+         "adult": 1098206,
+         "senior": 110219
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17746,
+         "child": 65455,
+         "adult": 224668,
+         "senior": 69074
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18706,
+         "child": 68652,
+         "adult": 218826,
+         "senior": 44010
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27395,
+         "child": 81307,
+         "adult": 148293,
+         "senior": 18334
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28511,
+         "child": 83651,
+         "adult": 141726,
+         "senior": 14327
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10479,
+         "child": 33675,
+         "adult": 95795,
+         "senior": 22884
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10960,
+         "child": 35423,
+         "adult": 95455,
+         "senior": 16760
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1357,
+         "child": 3917,
+         "adult": 9246,
+         "senior": 1808
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1440,
+         "child": 4171,
+         "adult": 9290,
+         "senior": 1462
+      }
+   ],
+   "2004": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 70716,
+         "child": 163398,
+         "adult": 197729,
+         "senior": 16496
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 72640,
+         "child": 166428,
+         "adult": 193145,
+         "senior": 13291
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173976,
+         "child": 542804,
+         "adult": 1073132,
+         "senior": 130412
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191042,
+         "child": 586709,
+         "adult": 1119794,
+         "senior": 113280
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17753,
+         "child": 64209,
+         "adult": 225508,
+         "senior": 69997
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18713,
+         "child": 67381,
+         "adult": 219765,
+         "senior": 44822
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27206,
+         "child": 81419,
+         "adult": 151411,
+         "senior": 18927
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28316,
+         "child": 83818,
+         "adult": 144676,
+         "senior": 14779
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10627,
+         "child": 33679,
+         "adult": 96893,
+         "senior": 23036
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11121,
+         "child": 35442,
+         "adult": 96486,
+         "senior": 17014
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1365,
+         "child": 3947,
+         "adult": 9410,
+         "senior": 1843
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1447,
+         "child": 4203,
+         "adult": 9448,
+         "senior": 1501
+      }
+   ],
+   "2005": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 72356,
+         "child": 166694,
+         "adult": 203598,
+         "senior": 16858
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 74344,
+         "child": 169843,
+         "adult": 198954,
+         "senior": 13506
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173315,
+         "child": 541427,
+         "adult": 1094323,
+         "senior": 133696
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190538,
+         "child": 586312,
+         "adult": 1142285,
+         "senior": 116089
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 17877,
+         "child": 62905,
+         "adult": 226666,
+         "senior": 70615
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 18844,
+         "child": 66049,
+         "adult": 220979,
+         "senior": 45350
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 27011,
+         "child": 81496,
+         "adult": 154517,
+         "senior": 19534
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 28119,
+         "child": 83971,
+         "adult": 147614,
+         "senior": 15241
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10744,
+         "child": 33651,
+         "adult": 98058,
+         "senior": 23256
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11245,
+         "child": 35421,
+         "adult": 97618,
+         "senior": 17294
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1381,
+         "child": 3976,
+         "adult": 9584,
+         "senior": 1883
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1463,
+         "child": 4237,
+         "adult": 9624,
+         "senior": 1544
+      }
+   ],
+   "2006": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 74235,
+         "child": 170110,
+         "adult": 209386,
+         "senior": 17313
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 76304,
+         "child": 173322,
+         "adult": 204667,
+         "senior": 13871
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173057,
+         "child": 538260,
+         "adult": 1116589,
+         "senior": 137228
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190501,
+         "child": 583994,
+         "adult": 1165760,
+         "senior": 119292
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18139,
+         "child": 61706,
+         "adult": 227727,
+         "senior": 71159
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19128,
+         "child": 64791,
+         "adult": 221876,
+         "senior": 46020
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26802,
+         "child": 81545,
+         "adult": 157608,
+         "senior": 20143
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27922,
+         "child": 84117,
+         "adult": 150513,
+         "senior": 15734
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11014,
+         "child": 33659,
+         "adult": 99046,
+         "senior": 23544
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11533,
+         "child": 35390,
+         "adult": 98586,
+         "senior": 17653
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1399,
+         "child": 4023,
+         "adult": 9766,
+         "senior": 1921
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1482,
+         "child": 4290,
+         "adult": 9806,
+         "senior": 1584
+      }
+   ],
+   "2007": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 76055,
+         "child": 173727,
+         "adult": 215420,
+         "senior": 17759
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 78195,
+         "child": 177028,
+         "adult": 210619,
+         "senior": 14216
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173307,
+         "child": 533803,
+         "adult": 1139722,
+         "senior": 140603
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190820,
+         "child": 580354,
+         "adult": 1190341,
+         "senior": 122264
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18432,
+         "child": 60501,
+         "adult": 229105,
+         "senior": 71434
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19435,
+         "child": 63543,
+         "adult": 223024,
+         "senior": 46465
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26587,
+         "child": 81556,
+         "adult": 160687,
+         "senior": 20769
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27711,
+         "child": 84243,
+         "adult": 153422,
+         "senior": 16231
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11150,
+         "child": 33725,
+         "adult": 100111,
+         "senior": 23896
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11675,
+         "child": 35433,
+         "adult": 99645,
+         "senior": 18035
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1427,
+         "child": 4066,
+         "adult": 9961,
+         "senior": 1961
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1512,
+         "child": 4338,
+         "adult": 10003,
+         "senior": 1630
+      }
+   ],
+   "2008": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 77869,
+         "child": 177532,
+         "adult": 221659,
+         "senior": 18203
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 80076,
+         "child": 180949,
+         "adult": 216782,
+         "senior": 14550
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174023,
+         "child": 528730,
+         "adult": 1163000,
+         "senior": 143949
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191484,
+         "child": 576070,
+         "adult": 1215194,
+         "senior": 125122
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 18742,
+         "child": 59339,
+         "adult": 230573,
+         "senior": 71602
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 19756,
+         "child": 62353,
+         "adult": 224236,
+         "senior": 46818
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26379,
+         "child": 81523,
+         "adult": 163746,
+         "senior": 21414
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27501,
+         "child": 84334,
+         "adult": 156328,
+         "senior": 16738
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11179,
+         "child": 33834,
+         "adult": 101188,
+         "senior": 24323
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11704,
+         "child": 35533,
+         "adult": 100733,
+         "senior": 18462
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1462,
+         "child": 4102,
+         "adult": 10165,
+         "senior": 2009
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1550,
+         "child": 4378,
+         "adult": 10216,
+         "senior": 1680
+      }
+   ],
+   "2009": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 79719,
+         "child": 181501,
+         "adult": 228085,
+         "senior": 18655
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 82003,
+         "child": 185066,
+         "adult": 223134,
+         "senior": 14883
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174743,
+         "child": 524102,
+         "adult": 1185649,
+         "senior": 147484
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192087,
+         "child": 572186,
+         "adult": 1239425,
+         "senior": 128035
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19021,
+         "child": 58295,
+         "adult": 231826,
+         "senior": 71901
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20047,
+         "child": 61298,
+         "adult": 225282,
+         "senior": 47256
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26195,
+         "child": 81435,
+         "adult": 166777,
+         "senior": 22100
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27316,
+         "child": 84360,
+         "adult": 159231,
+         "senior": 17266
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11157,
+         "child": 33946,
+         "adult": 102196,
+         "senior": 24833
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11680,
+         "child": 35648,
+         "adult": 101767,
+         "senior": 18955
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1496,
+         "child": 4135,
+         "adult": 10369,
+         "senior": 2063
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1586,
+         "child": 4410,
+         "adult": 10430,
+         "senior": 1734
+      }
+   ],
+   "2010": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 81664,
+         "child": 185586,
+         "adult": 234683,
+         "senior": 19122
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 84040,
+         "child": 189325,
+         "adult": 229671,
+         "senior": 15218
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175220,
+         "child": 520571,
+         "adult": 1207121,
+         "senior": 151367
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192414,
+         "child": 569328,
+         "adult": 1262445,
+         "senior": 131125
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19245,
+         "child": 57408,
+         "adult": 232691,
+         "senior": 72453
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20290,
+         "child": 60417,
+         "adult": 226043,
+         "senior": 47864
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 26047,
+         "child": 81280,
+         "adult": 169778,
+         "senior": 22832
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27171,
+         "child": 84299,
+         "adult": 162127,
+         "senior": 17819
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11131,
+         "child": 34013,
+         "adult": 103094,
+         "senior": 25434
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11653,
+         "child": 35728,
+         "adult": 102705,
+         "senior": 19531
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1524,
+         "child": 4167,
+         "adult": 10569,
+         "senior": 2125
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1616,
+         "child": 4438,
+         "adult": 10638,
+         "senior": 1798
+      }
+   ],
+   "2011": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 83790,
+         "child": 189843,
+         "adult": 241232,
+         "senior": 19678
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 86269,
+         "child": 193739,
+         "adult": 236166,
+         "senior": 15696
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175995,
+         "child": 518033,
+         "adult": 1226732,
+         "senior": 155867
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192959,
+         "child": 567458,
+         "adult": 1283167,
+         "senior": 134981
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19564,
+         "child": 56757,
+         "adult": 233027,
+         "senior": 73159
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20624,
+         "child": 59740,
+         "adult": 226239,
+         "senior": 48742
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25914,
+         "child": 81069,
+         "adult": 172787,
+         "senior": 23593
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 27046,
+         "child": 84094,
+         "adult": 165057,
+         "senior": 18437
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11142,
+         "child": 34037,
+         "adult": 103857,
+         "senior": 26091
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11658,
+         "child": 35706,
+         "adult": 103557,
+         "senior": 20201
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1558,
+         "child": 4217,
+         "adult": 10735,
+         "senior": 2188
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1655,
+         "child": 4485,
+         "adult": 10791,
+         "senior": 1871
+      }
+   ],
+   "2012": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 85802,
+         "child": 194379,
+         "adult": 248001,
+         "senior": 20242
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 88379,
+         "child": 198463,
+         "adult": 242903,
+         "senior": 16174
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 176233,
+         "child": 516728,
+         "adult": 1245409,
+         "senior": 160608
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192981,
+         "child": 566623,
+         "adult": 1303007,
+         "senior": 138876
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19692,
+         "child": 56348,
+         "adult": 233064,
+         "senior": 74060
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20763,
+         "child": 59325,
+         "adult": 226236,
+         "senior": 49740
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25846,
+         "child": 80788,
+         "adult": 175755,
+         "senior": 24388
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26988,
+         "child": 83813,
+         "adult": 167952,
+         "senior": 19069
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 11060,
+         "child": 34016,
+         "adult": 104608,
+         "senior": 26833
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11571,
+         "child": 35648,
+         "adult": 104417,
+         "senior": 20944
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1577,
+         "child": 4271,
+         "adult": 10903,
+         "senior": 2257
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1675,
+         "child": 4536,
+         "adult": 10938,
+         "senior": 1947
+      }
+   ],
+   "2013": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 87721,
+         "child": 199149,
+         "adult": 254983,
+         "senior": 20824
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 90394,
+         "child": 203449,
+         "adult": 249871,
+         "senior": 16655
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 176062,
+         "child": 516368,
+         "adult": 1263036,
+         "senior": 165771
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192604,
+         "child": 566575,
+         "adult": 1321883,
+         "senior": 143036
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19684,
+         "child": 56155,
+         "adult": 232802,
+         "senior": 75130
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20763,
+         "child": 59145,
+         "adult": 226048,
+         "senior": 50816
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25820,
+         "child": 80449,
+         "adult": 178663,
+         "senior": 25236
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26971,
+         "child": 83475,
+         "adult": 170800,
+         "senior": 19730
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10931,
+         "child": 33957,
+         "adult": 105320,
+         "senior": 27637
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11437,
+         "child": 35557,
+         "adult": 105243,
+         "senior": 21740
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1585,
+         "child": 4324,
+         "adult": 11069,
+         "senior": 2332
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1683,
+         "child": 4587,
+         "adult": 11088,
+         "senior": 2026
+      }
+   ],
+   "2014": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 89549,
+         "child": 204097,
+         "adult": 262191,
+         "senior": 21427
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 92311,
+         "child": 208633,
+         "adult": 257075,
+         "senior": 17152
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175759,
+         "child": 516359,
+         "adult": 1279563,
+         "senior": 171589
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 192092,
+         "child": 566784,
+         "adult": 1339778,
+         "senior": 147776
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19624,
+         "child": 56126,
+         "adult": 232283,
+         "senior": 76306
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20710,
+         "child": 59147,
+         "adult": 225715,
+         "senior": 51904
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25794,
+         "child": 80071,
+         "adult": 181494,
+         "senior": 26155
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26953,
+         "child": 83112,
+         "adult": 173583,
+         "senior": 20435
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10800,
+         "child": 33879,
+         "adult": 105968,
+         "senior": 28487
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11301,
+         "child": 35450,
+         "adult": 106009,
+         "senior": 22568
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1591,
+         "child": 4377,
+         "adult": 11233,
+         "senior": 2408
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1688,
+         "child": 4639,
+         "adult": 11239,
+         "senior": 2104
+      }
+   ],
+   "2015": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 91309,
+         "child": 209151,
+         "adult": 269637,
+         "senior": 22061
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 94155,
+         "child": 213933,
+         "adult": 264524,
+         "senior": 17666
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175510,
+         "child": 516238,
+         "adult": 1295013,
+         "senior": 178214
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191632,
+         "child": 566839,
+         "adult": 1356748,
+         "senior": 153285
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19568,
+         "child": 56205,
+         "adult": 231556,
+         "senior": 77546
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20662,
+         "child": 59273,
+         "adult": 225280,
+         "senior": 52969
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25742,
+         "child": 79668,
+         "adult": 184231,
+         "senior": 27158
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26907,
+         "child": 82743,
+         "adult": 176288,
+         "senior": 21197
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10697,
+         "child": 33789,
+         "adult": 106534,
+         "senior": 29374
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11192,
+         "child": 35342,
+         "adult": 106691,
+         "senior": 23415
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1601,
+         "child": 4426,
+         "adult": 11392,
+         "senior": 2483
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1699,
+         "child": 4689,
+         "adult": 11388,
+         "senior": 2178
+      }
+   ],
+   "2016": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 93136,
+         "child": 214350,
+         "adult": 277071,
+         "senior": 22794
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 96072,
+         "child": 219362,
+         "adult": 271939,
+         "senior": 18317
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 175190,
+         "child": 516331,
+         "adult": 1308930,
+         "senior": 185848
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 191076,
+         "child": 567031,
+         "adult": 1372046,
+         "senior": 160155
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19400,
+         "child": 56465,
+         "adult": 230712,
+         "senior": 78804
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20491,
+         "child": 59550,
+         "adult": 224648,
+         "senior": 54198
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25759,
+         "child": 79215,
+         "adult": 186859,
+         "senior": 28181
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26925,
+         "child": 82204,
+         "adult": 178975,
+         "senior": 22025
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10518,
+         "child": 33825,
+         "adult": 107007,
+         "senior": 30274
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11008,
+         "child": 35351,
+         "adult": 107252,
+         "senior": 24294
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1606,
+         "child": 4489,
+         "adult": 11536,
+         "senior": 2565
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1703,
+         "child": 4750,
+         "adult": 11531,
+         "senior": 2256
+      }
+   ],
+   "2017": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 94631,
+         "child": 219795,
+         "adult": 284856,
+         "senior": 23554
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 97625,
+         "child": 225056,
+         "adult": 279722,
+         "senior": 18981
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174910,
+         "child": 516377,
+         "adult": 1321742,
+         "senior": 194216
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190587,
+         "child": 567108,
+         "adult": 1386424,
+         "senior": 167678
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19301,
+         "child": 56786,
+         "adult": 229652,
+         "senior": 80099
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20385,
+         "child": 59904,
+         "adult": 223906,
+         "senior": 55383
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25690,
+         "child": 78778,
+         "adult": 189423,
+         "senior": 29277
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26854,
+         "child": 81711,
+         "adult": 181602,
+         "senior": 22896
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10463,
+         "child": 33803,
+         "adult": 107383,
+         "senior": 31173
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10948,
+         "child": 35309,
+         "adult": 107706,
+         "senior": 25158
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1621,
+         "child": 4547,
+         "adult": 11670,
+         "senior": 2644
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1719,
+         "child": 4806,
+         "adult": 11668,
+         "senior": 2331
+      }
+   ],
+   "2018": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 95911,
+         "child": 225394,
+         "adult": 292930,
+         "senior": 24347
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 98939,
+         "child": 230920,
+         "adult": 287819,
+         "senior": 19660
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174625,
+         "child": 516404,
+         "adult": 1333698,
+         "senior": 203058
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 190104,
+         "child": 567088,
+         "adult": 1400127,
+         "senior": 175565
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19243,
+         "child": 57137,
+         "adult": 228417,
+         "senior": 81419
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20318,
+         "child": 60298,
+         "adult": 223063,
+         "senior": 56524
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25559,
+         "child": 78361,
+         "adult": 191905,
+         "senior": 30439
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26719,
+         "child": 81273,
+         "adult": 184147,
+         "senior": 23810
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10494,
+         "child": 33722,
+         "adult": 107689,
+         "senior": 32088
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 10978,
+         "child": 35214,
+         "adult": 108086,
+         "senior": 26026
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1643,
+         "child": 4601,
+         "adult": 11798,
+         "senior": 2723
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1743,
+         "child": 4863,
+         "adult": 11801,
+         "senior": 2403
+      }
+   ],
+   "2019": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 97131,
+         "child": 231026,
+         "adult": 301220,
+         "senior": 25175
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 100186,
+         "child": 236818,
+         "adult": 296159,
+         "senior": 20352
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 174198,
+         "child": 516505,
+         "adult": 1345238,
+         "senior": 211963
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 189470,
+         "child": 567035,
+         "adult": 1413582,
+         "senior": 183380
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19165,
+         "child": 57487,
+         "adult": 227055,
+         "senior": 82765
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20228,
+         "child": 60693,
+         "adult": 222147,
+         "senior": 57644
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25409,
+         "child": 77967,
+         "adult": 194285,
+         "senior": 31658
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26562,
+         "child": 80885,
+         "adult": 186604,
+         "senior": 24754
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10554,
+         "child": 33591,
+         "adult": 107957,
+         "senior": 33048
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11036,
+         "child": 35074,
+         "adult": 108429,
+         "senior": 26914
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1663,
+         "child": 4652,
+         "adult": 11920,
+         "senior": 2804
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1764,
+         "child": 4918,
+         "adult": 11929,
+         "senior": 2476
+      }
+   ],
+   "2020": [
+      {
+         "region": "Africa",
+         "gender": "Female",
+         "baby": 98412,
+         "child": 236572,
+         "adult": 309698,
+         "senior": 26038
+      },
+      {
+         "region": "Africa",
+         "gender": "Male",
+         "baby": 101498,
+         "child": 242613,
+         "adult": 304709,
+         "senior": 21058
+      },
+      {
+         "region": "Asia",
+         "gender": "Female",
+         "baby": 173546,
+         "child": 516716,
+         "adult": 1356610,
+         "senior": 220719
+      },
+      {
+         "region": "Asia",
+         "gender": "Male",
+         "baby": 188596,
+         "child": 566971,
+         "adult": 1427012,
+         "senior": 190885
+      },
+      {
+         "region": "Europe",
+         "gender": "Female",
+         "baby": 19009,
+         "child": 57821,
+         "adult": 225593,
+         "senior": 84151
+      },
+      {
+         "region": "Europe",
+         "gender": "Male",
+         "baby": 20061,
+         "child": 61075,
+         "adult": 221171,
+         "senior": 58753
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Female",
+         "baby": 25269,
+         "child": 77585,
+         "adult": 196551,
+         "senior": 32925
+      },
+      {
+         "region": "Latin America and the Caribbean",
+         "gender": "Male",
+         "baby": 26420,
+         "child": 80523,
+         "adult": 188961,
+         "senior": 25724
+      },
+      {
+         "region": "Northern America",
+         "gender": "Female",
+         "baby": 10597,
+         "child": 33435,
+         "adult": 108194,
+         "senior": 34062
+      },
+      {
+         "region": "Northern America",
+         "gender": "Male",
+         "baby": 11079,
+         "child": 34914,
+         "adult": 108747,
+         "senior": 27840
+      },
+      {
+         "region": "Oceania",
+         "gender": "Female",
+         "baby": 1676,
+         "child": 4705,
+         "adult": 12040,
+         "senior": 2892
+      },
+      {
+         "region": "Oceania",
+         "gender": "Male",
+         "baby": 1778,
+         "child": 4973,
+         "adult": 12057,
+         "senior": 2556
+      }
+   ]
+}

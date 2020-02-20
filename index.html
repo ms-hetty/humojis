@@ -1,0 +1,54 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>World in Emojis</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/app.js"></script>
+</head>
+<body>
+    <!--[if IE]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <form>
+        <input type="range" id="year" name="year" min="1950" max="2020" value="2020">
+        <select name="region" id="region">
+            <option value="any">World</option>
+            <option>Africa</option>
+            <option>Asia</option>
+            <option>Europe</option>
+            <option>Latin America and the Caribbean</option>
+            <option>Northern America</option>
+            <option>Oceania</option>
+        </select>
+        <select name="gender" id="gender">
+            <option value="any">All</option>
+            <option value="Female">Only Female</option>
+            <option value="Male">Only Male</option>
+        </select>
+        <select name="age" id="age">
+            <option value="any">All</option>
+            <option>Babys</option>
+            <option>Children</option>
+            <option>Adults</option>
+            <option>Seniors</option>
+        </select>
+    </form>
+    <h1> World in Emojis</h1>
+    <div class="canvas">
+        
+    </div>
+</body>
+
+</html>
