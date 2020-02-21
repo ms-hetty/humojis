@@ -51,7 +51,7 @@
 
     let angle = 0; //Angle of the current drawing of an emoji
     let radius = 0; //Radius from the center point of the current drawing of an emoji
-    let step = 0; //Current step of the drawing
+    let key = 0; //key-variable for redrawing!
 
     function shuffle(a) { //Function to shuffel the array of emojis
         var j, x, i;
@@ -64,21 +64,20 @@
         return a;
     }
 
-    function getEmojiX(i) {
+    function getEmojiX(step) {
         //Recalculate the globals...
         angle = (Math.PI) * Math.sqrt(step);
         radius = angle/(2*Math.PI)*((reference_height+reference_width)/2);
         if (angle > (2*Math.PI)) angle -= (2*Math.PI);
-        step++;
 
         let x = Math.round(center.x + radius * Math.cos(angle) - reference_width/2);
         return room.x+x;
     }
-    function getEmojiY(i) {
+
+    function getEmojiY(step) {
         let y = Math.round(center.y + radius * Math.sin(angle) - reference_height/2);
         return room.y+y;
     }
-
 
     //main() do everything!
     let working = false;
@@ -114,34 +113,32 @@
             total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
             emoji_scale = Math.round(total/space)*1000;
 
-            emojis = [];
+            let newemojis = [];
             if ((total > 0) && (space > 0)) {
                 //reset drawing
                 angle = 0;
                 radius = 0;
-                step = 0;
 
                 //Add emojis for printing
                 let max = Math.round(d.baby_girls/total*space);
-                for (let i=0; i < max; i++) emojis.push('baby_girls');
+                for (let i=0; i < max; i++) newemojis.push('baby_girls');
                 max = Math.round(d.baby_boys/total*space);
-                for (let i=0; i < max; i++) emojis.push('baby_boys');
+                for (let i=0; i < max; i++) newemojis.push('baby_boys');
                 max = Math.round(d.boys/total*space);
-                for (let i=0; i < max; i++) emojis.push('girls');
+                for (let i=0; i < max; i++) newemojis.push('girls');
                 max = Math.round(d.girls/total*space);
-                for (let i=0; i < max; i++) emojis.push('boys');
+                for (let i=0; i < max; i++) newemojis.push('boys');
                 max = Math.round(d.women/total*space);
-                for (let i=0; i < max; i++) emojis.push('women');
+                for (let i=0; i < max; i++) newemojis.push('women');
                 max = Math.round(d.men/total*space);
-                for (let i=0; i < max; i++) emojis.push('men');
+                for (let i=0; i < max; i++) newemojis.push('men');
                 max = Math.round(d.old_women/total*space);
-                for (let i=0; i < max; i++) emojis.push('old_women');
+                for (let i=0; i < max; i++) newemojis.push('old_women');
                 max = Math.round(d.old_men/total*space);
-                for (let i=0; i < max; i++) emojis.push('old_men');
+                for (let i=0; i < max; i++) newemojis.push('old_men');
 
-                //Change the order of emojis to random
-                emojis = shuffle(emojis);
-
+                //Change the order of emojis to random and push state!
+                emojis = shuffle(newemojis);
             }
             working = false;
         }
@@ -171,7 +168,7 @@
 <div class="canvas">
     <div class="canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
         {#each emojis as e, i (Math.random())}
-            <Emoji type={e} index={i} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
+            <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
         {/each}
     </div>
     <div class="reference">

@@ -18,7 +18,7 @@
 
 </style>
 
-<div class="emoji" id="emoji-{index}" style="width: {referenceWidth}px; height: {referenceHeight}px; left: {x}px; top: {y}px">
+<div class="emoji" id="emoji-{index}" style="z-index: {Math.round(Math.random()*1000)}; width: {referenceWidth}px; height: {referenceHeight}px; left: {x}px; top: {y}px;">
     <div class="face">
         {#if type == 'baby_boys'} 👶
         {:else if type == 'baby_girls'} 👶
