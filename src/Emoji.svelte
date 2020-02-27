@@ -8,14 +8,22 @@
 </script>
 
 <style>
-.emoji {
-    position: absolute;
-    display: block;
-}
-.face {
-    display: inline;
-}
+    /* General and Desktop styles */
+    .emoji {
+        position: absolute;
+        display: block;
+    }
+    .face {
+        display: inline;
+    }
 
+	/* Tablet styles */
+	@media (max-width: 1025px) {
+	}
+
+	/* Mobile styles */
+	@media (max-width: 760px) {
+	}
 </style>
 
 <div class="emoji" id="emoji-{index}" style="z-index: {Math.round(Math.random()*1000)}; width: {referenceWidth}px; height: {referenceHeight}px; left: {x}px; top: {y}px;">

@@ -26,17 +26,42 @@
 		old_men: 0
 	};
 
+    import Header from './Header.svelte';
     import Canvas from './Canvas.svelte';
 	import Form from './Form.svelte';
 	import Database from './Database.svelte';
 </script>
 
 <style>
+    /* General and Desktop styles */
+	main {
+		color: #ffffff;
+		font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 0;
+
+		display: grid;
+		grid-template-rows: 280px 1fr;
+		grid-template-columns: 450px 1fr;
+		min-height: 100vh;
+	}
+
+	/* Tablet styles */
+	@media (max-width: 1025px) {
+	}
+
+	/* Mobile styles */
+	@media (max-width: 760px) {
+		main {
+			display: flex;
+			flex-direction: column;
+		}
+	}
 </style>
 
 <main>
+	<Header />
 	<Form bind:filter={filter}/>
 	<Database bind:filter={filter} bind:display={display} bind:reference={reference} />
-	<h1>World in emojis!</h1>
 	<Canvas bind:filter={filter} bind:display={display} bind:reference={reference} />
 </main>

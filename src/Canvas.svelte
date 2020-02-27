@@ -106,8 +106,8 @@
                 room.x = (width-height)/2;
                 room.y = 0;
             }
-            center.x = room.width/2;
-            center.y = room.height/2-5;
+            center.x = room.width/2-(reference_width/4);
+            center.y = room.height/2;
 
             space = (room.width/reference_width)*(room.height/reference_height);
             total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
@@ -146,50 +146,114 @@
 </script>
 
 <style>
+    /* General and Desktop styles */
     .canvas {
+        background-color: #0052CC;
+        position: relative;
+        grid-area: 1 / 2 / 3 / 2;
+        flex: 1;
         overflow: hidden;
-        height: 800px;
+        padding: 0 40 0 0;
+    }
+    
+    .emoji-canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
         font-size: 1.3rem;
         line-height: 1em;
-    }
-    .canvas-inner {
-        width: 100%;
-        height: 100%;
-        
-        background: lightgrey;
         overflow: hidden;
-        position: relative;
     }
+    .scale {
+    }
+    .copyright {
+        position: absolute;
+        bottom: 0;
+    }
+    .emoji-canvas-inner {
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 100vh;
+    }
+    
     .reference {
         font-size: 1.1rem;
+        visibility: hidden;
+    }
+    .numbers {
+        visibility: hidden;
+    }
+    
+    a {
+		color: #ffffff;
+        text-decoration: none;
+	}
+    a:hover {
+        text-decoration: underline;
+    }
+    ::-moz-selection {
+        color: #0052CC;
+    }
+    ::selection {
+        color: #0052CC;
+    }
+
+    /* Tablet styles */
+    @media (max-width: 1025px) {
+    }
+
+    /* Mobile styles */
+    @media (max-width: 760px) {
+        .canvas {
+            overflow: auto;
+        }
+        .emoji-canvas {
+            padding: 0 12px;
+            min-height: calc(100vw + 60px);
+        }    
+        .emoji-canvas-inner {
+            min-height: 100vw;
+            height: auto;
+        }
     }
 </style>
 
 <div class="canvas">
-    <div class="canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
-        {#each emojis as e, i (Math.random())}
-            <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
-        {/each}
+    <div class="emoji-canvas">
+        <div class="scale">
+            One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wunderful people
+        </div>
+        <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
+            {#each emojis as e, i (Math.random())}
+                <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
+            {/each}
+        </div>
+        <div class="copyright">
+            By <a href="https://www.stefanie-hetjens.com/" target="_blank">Stefanie Hetjens</a>, Copyright 2020
+        </div>
+        <div class="reference">
+            <span id="reference_id">🙂</span>
+        </div>
+        <div class="numbers">
+            <p>year: {filter.year}</p>
+            <p>region: {filter.region}</p>
+            <p>gender: {filter.gender}</p>
+            <p>age: {filter.age}</p>
+            <p></p>
+            <p>baby_girls: {display.baby_girls}</p>
+            <p>baby_boys: {display.baby_boys}</p>
+            <p>girls: {display.girls}</p>
+            <p>boys: {display.boys}</p>
+            <p>women: {display.women}</p>
+            <p>men: {display.men}</p>
+            <p>old_women: {display.old_women}</p>
+            <p>old_men: {display.old_men}</p>
+        </div>
     </div>
-    <div class="reference">
-        <span id="reference_id">🙂</span>
-    </div>
-    <div class="numbers">
-        <p>year: {filter.year}</p>
-        <p>region: {filter.region}</p>
-        <p>gender: {filter.gender}</p>
-        <p>age: {filter.age}</p>
-        <p></p>
-        <p>baby_girls: {display.baby_girls}</p>
-        <p>baby_boys: {display.baby_boys}</p>
-        <p>girls: {display.girls}</p>
-        <p>boys: {display.boys}</p>
-        <p>women: {display.women}</p>
-        <p>men: {display.men}</p>
-        <p>old_women: {display.old_women}</p>
-        <p>old_men: {display.old_men}</p>
-    </div>
-</div>
-<div class="scale">
-    One Emoji is roughly equal to {emoji_scale} wunderful people on Earth
 </div>
