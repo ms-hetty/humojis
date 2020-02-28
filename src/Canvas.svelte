@@ -106,10 +106,10 @@
                 room.x = (width-height)/2;
                 room.y = 0;
             }
-            center.x = room.width/2-(reference_width/4);
+            center.x = room.width/2;
             center.y = room.height/2;
 
-            space = (room.width/reference_width)*(room.height/reference_height);
+            space = ((room.width-20)/reference_width)*(room.height/reference_height);
             total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
             emoji_scale = Math.round(total/space)*1000;
 
@@ -166,11 +166,18 @@
         line-height: 1em;
         overflow: hidden;
     }
-    .scale {
+    h2.scale {
+        padding: 50px 40px 0 20px;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
     }
     .copyright {
         position: absolute;
-        bottom: 0;
+        bottom: 20px;
+        right: 0;
+        padding: 0 20px 0 20px;
+        font-size: 12px;
     }
     .emoji-canvas-inner {
         overflow: hidden;
@@ -179,7 +186,7 @@
         left: 0;
         right: 0;
         bottom: 0;
-        height: 100vh;
+        height: calc(100vh - 100px);
     }
     
     .reference {
@@ -211,7 +218,11 @@
     /* Mobile styles */
     @media (max-width: 760px) {
         .canvas {
-            overflow: auto;
+            overflow: visible;
+            min-height: calc(100vw + 60px);
+        }
+        h2.scale {
+            padding: 16px 0 0 0;
         }
         .emoji-canvas {
             padding: 0 12px;
@@ -226,9 +237,9 @@
 
 <div class="canvas">
     <div class="emoji-canvas">
-        <div class="scale">
+        <h2 class="scale">
             One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wunderful people
-        </div>
+        </h2>
         <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
             {#each emojis as e, i (Math.random())}
                 <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
