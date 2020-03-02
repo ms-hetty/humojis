@@ -219,7 +219,7 @@
     @media (max-width: 760px) {
         .canvas {
             overflow: visible;
-            min-height: calc(100vw + 60px);
+            min-height: calc(100vw + 100px);
         }
         h2.scale {
             padding: 16px 0 0 0;
@@ -246,7 +246,7 @@
             {/each}
         </div>
         <div class="copyright">
-            By <a href="https://www.stefanie-hetjens.com/" target="_blank">Stefanie Hetjens</a>, Copyright 2020
+            By <a href="https://www.stefanie-hetjens.com/" target="_blank">Stefanie Hetjens</a>, Copyright 2020, licensed as <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC</a>
         </div>
         <div class="reference">
             <span id="reference_id">🙂</span>

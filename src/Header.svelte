@@ -17,7 +17,7 @@
         text-transform: uppercase;
         padding-top: 27px;
         padding-bottom: 15px;
-        font-size: 40px;
+        font-size: 36px;
     }
 
     a {
@@ -79,9 +79,8 @@
     <nav>
         <ul class="clearfix">
             <li><a href="#" class="current">Play</a></li>
-            <li><a href="#">Extremes</a></li>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#faq">FAQ</a></li>
         </ul>
     </nav>
 </header>

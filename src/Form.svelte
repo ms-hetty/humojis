@@ -19,7 +19,7 @@
         background-color: #19B302;
         position: relative;
         grid-area: 2 / 1 / 2 / 1;
-        padding: 0 0 0 40px;
+        padding: 0 0 40px 40px;
     }
 
     button.toggle {
@@ -219,6 +219,8 @@
             float: right;
             background: #19B302 url('/img/arrow-down.svg') center center no-repeat;
             border: 0;
+            font-size: 0.25px;
+            color: #19B302;
         }
         form.show button.toggle {
             background-image: url('/img/arrow-up.svg');
@@ -235,7 +237,7 @@
 
 <form class:show={show_form === true}>
     <h2>
-        <button class="toggle" on:click|preventDefault={() => show_form = !show_form}></button>
+        <button class="toggle" on:click|preventDefault={() => show_form = !show_form}>Button to show and hide controls</button>
         Adjust and see the changes in comparison to today’s world
     </h2>
     <div class="content">

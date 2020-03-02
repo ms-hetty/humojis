@@ -30,6 +30,7 @@
     import Canvas from './Canvas.svelte';
 	import Form from './Form.svelte';
 	import Database from './Database.svelte';
+	import ScrollTop from './ScrollTop.svelte';
 </script>
 
 <style>
@@ -59,9 +60,10 @@
 	}
 </style>
 
-<main>
+<main id="top">
 	<Header />
 	<Form bind:filter={filter}/>
 	<Database bind:filter={filter} bind:display={display} bind:reference={reference} />
 	<Canvas bind:filter={filter} bind:display={display} bind:reference={reference} />
 </main>
+<ScrollTop />
