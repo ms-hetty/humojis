@@ -48,12 +48,8 @@
     }
 
 
-	/* Tablet styles */
-	@media (max-width: 1025px) {
-	}
-
 	/* Mobile styles */
-	@media (max-width: 760px) {
+	@media (max-width: 1023px) {
         header {
             padding: 0 12px;
         }
@@ -78,7 +74,7 @@
     <h1>Humankind as Emojis</h1>
     <nav>
         <ul class="clearfix">
-            <li><a href="#" class="current">Play</a></li>
+            <li><a href="#top" class="current">Play</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#faq">FAQ</a></li>
         </ul>

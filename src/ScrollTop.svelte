@@ -7,7 +7,7 @@
     /* General and Desktop styles */
     .scrolltop {
         position: relative;
-        background: black;
+        background: #18AC02;
     }
     .up {
         width: 48px;
@@ -22,13 +22,8 @@
         padding: 10px 13px;
         display: block;
     }
-
-	/* Tablet styles */
-	@media (max-width: 1025px) {
-	}
-
 	/* Mobile styles */
-	@media (max-width: 760px) {
+	@media (max-width: 1023px) {
         .up {
             margin-left: calc(100vw - 60px)
         }

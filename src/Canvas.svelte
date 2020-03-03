@@ -153,7 +153,7 @@
         grid-area: 1 / 2 / 3 / 2;
         flex: 1;
         overflow: hidden;
-        padding: 0 40 0 0;
+        padding: 0;
     }
     
     .emoji-canvas {
@@ -167,16 +167,16 @@
         overflow: hidden;
     }
     h2.scale {
-        padding: 50px 40px 0 20px;
+        padding: 50px 40px 0 40px;
         font-size: 20px;
         font-weight: 600;
         line-height: 24px;
     }
     .copyright {
         position: absolute;
-        bottom: 20px;
+        bottom: 40px;
         right: 0;
-        padding: 0 20px 0 20px;
+        padding: 0 40px 0 40px;
         font-size: 12px;
     }
     .emoji-canvas-inner {
@@ -211,12 +211,8 @@
         color: #0052CC;
     }
 
-    /* Tablet styles */
-    @media (max-width: 1025px) {
-    }
-
     /* Mobile styles */
-    @media (max-width: 760px) {
+	@media (max-width: 1023px) {
         .canvas {
             overflow: visible;
             min-height: calc(100vw + 100px);
@@ -231,6 +227,12 @@
         .emoji-canvas-inner {
             min-height: 100vw;
             height: auto;
+        }
+        .copyright {
+            bottom: 16px;
+            padding-left: 12px;
+            padding-right: 12px;
+            left: 0;
         }
     }
 </style>

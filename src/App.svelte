@@ -47,12 +47,8 @@
 		min-height: 100vh;
 	}
 
-	/* Tablet styles */
-	@media (max-width: 1025px) {
-	}
-
 	/* Mobile styles */
-	@media (max-width: 760px) {
+	@media (max-width: 1023px) {
 		main {
 			display: flex;
 			flex-direction: column;

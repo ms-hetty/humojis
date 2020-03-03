@@ -16,7 +16,7 @@
 <style>
     /* General and Desktop styles */
     form {
-        background-color: #19B302;
+        background-color: #18AC02; /*#19B302; */
         position: relative;
         grid-area: 2 / 1 / 2 / 1;
         padding: 0 0 40px 40px;
@@ -31,14 +31,19 @@
         font-weight: 600;
         line-height: 24px;
     }
+    a.headline {
+        color: white;
+        text-decoration: none;
+        cursor: default;
+    }
     ::-moz-selection {
-        color: #19B302;
+        color: #18AC02;
     }
     ::selection {
-        color: #19B302;
+        color: #18AC02;
     }
     .content {
-        padding-right: 20px;
+        padding-right: 40px;
     }
     .item {
         display: flex;
@@ -62,7 +67,7 @@
 
     /* INPUT RANGE */
     input[type=range] {
-        background: #19B302;
+        background: #18AC02;
     }
     input[type=range] {
         -webkit-appearance: none;
@@ -189,13 +194,8 @@
         font-size: 16px;
     }
 
-
-	/* Tablet styles */
-	@media (max-width: 1025px) {
-	}
-
 	/* Mobile styles */
-	@media (max-width: 760px) {
+	@media (max-width: 1023px) {
         form {
             padding: 0 12px;
         }
@@ -203,6 +203,10 @@
             padding-top: 15px;
             padding-bottom: 16px;
             padding-right: 0;
+        }
+        h2 a.headline,
+        button.toggle {
+            cursor: pointer;
         }
         .item {
             padding-top: 18px;
@@ -217,10 +221,10 @@
             width: 48px;
             height: 48px;
             float: right;
-            background: #19B302 url('/img/arrow-down.svg') center center no-repeat;
+            background: #18AC02 url('/img/arrow-down.svg') center center no-repeat;
             border: 0;
             font-size: 0.25px;
-            color: #19B302;
+            color: #18AC02;
         }
         form.show button.toggle {
             background-image: url('/img/arrow-up.svg');
@@ -237,8 +241,10 @@
 
 <form class:show={show_form === true}>
     <h2>
-        <button class="toggle" on:click|preventDefault={() => show_form = !show_form}>Button to show and hide controls</button>
-        Adjust and see the changes in comparison to today’s world
+        <a class="headline" href="#form" on:click|preventDefault={() => show_form = !show_form}>
+            <button class="toggle">Button to show and hide controls</button>
+            Adjust and see the changes in comparison to today’s world
+        </a>
     </h2>
     <div class="content">
         <div class="item">
