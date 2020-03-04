@@ -240,7 +240,7 @@
 <div class="canvas">
     <div class="emoji-canvas">
         <h2 class="scale">
-            One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wunderful people
+            One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wonderful people
         </h2>
         <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
             {#each emojis as e, i (Math.random()+Math.random())}
