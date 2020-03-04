@@ -74,7 +74,7 @@
     <h1>Humankind as Emojis</h1>
     <nav>
         <ul class="clearfix">
-            <li><a href="#top" class="current">Play</a></li>
+            <li><a href="#top" class="current">Explore</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#faq">FAQ</a></li>
         </ul>
