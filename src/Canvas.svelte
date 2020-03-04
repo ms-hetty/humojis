@@ -243,12 +243,12 @@
             One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wunderful people
         </h2>
         <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
-            {#each emojis as e, i (Math.random())}
+            {#each emojis as e, i (Math.random()+Math.random())}
                 <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
             {/each}
         </div>
         <div class="copyright">
-            By <a href="https://www.stefanie-hetjens.com/" target="_blank">Stefanie Hetjens</a>, Copyright 2020, licensed as <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC</a>
+            By <a href="https://www.stefanie-hetjens.com/" target="_blank" rel="noopener">Stefanie Hetjens</a>, Copyright 2020, licensed as <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC-BY-NC</a>
         </div>
         <div class="reference">
             <span id="reference_id">🙂</span>

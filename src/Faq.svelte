@@ -38,6 +38,14 @@
     ul li {
         font-size: 20px;
     }
+    .paypal-btn {
+        background: #CC0085;
+        color: #fff;
+        border: 0;
+        height: 48px;
+        padding: 0 17px;
+        cursor: pointer;
+    }
 
 	/* Mobile styles */
 	@media (max-width: 1023px) {
@@ -115,11 +123,10 @@
     <p class="question">Can I donate to show my support for this project?</p>
     <p class="answer">Yes, you can donate via Paypal. Please, click the button: </p>
 
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="answer">
-    <input type="hidden" name="cmd" value="_s-xclick" />
-    <input type="hidden" name="hosted_button_id" value="AXUFT4AZGJXWA" />
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-    <img alt="" border="0" src="https://www.paypal.com/en_CH/i/scr/pixel.gif" width="1" height="1" />
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="answer" rel="noopener">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="AXUFT4AZGJXWA" />
+        <input class="paypal-btn" type="submit" name="submit" value="Donate with PayPal" alt="Donate with PayPal" />
     </form>
 
     <p class="question">How can I reach you?</p>
