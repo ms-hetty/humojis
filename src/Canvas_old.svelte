@@ -82,17 +82,16 @@
     //main() do everything!
     let working = false;
     $: {
-        if ((working == false) && (document.getElementById('ctx') != null)) {
+        if (working == false) {
             working = true;
             let r = reference;
             let d = display;
 
-            //Init Canvas
-            let ctx = document.getElementById('ctx').getContext('2d');
-            ctx.font = '24px sans-serif';
-            
             // Size of one Emoji
-            let refemoji = ctx.measureText('🙂');
+            if (document.getElementById('reference_id') != null) {
+                reference_height = Math.ceil(document.getElementById('reference_id').offsetHeight)+1;
+                reference_width = Math.ceil(document.getElementById('reference_id').offsetWidth)+1;
+            }
 
             //how much space do we have?
             if (width<height) {
@@ -110,7 +109,7 @@
             center.x = room.width/2;
             center.y = room.height/2;
 
-            space = ((room.width)/(refemoji.width-6))*((room.height)/(refemoji.width-6));
+            space = ((room.width-20)/reference_width)*(room.height/reference_height);
             total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
             emoji_scale = Math.round(total/space)*1000;
 
@@ -122,37 +121,24 @@
 
                 //Add emojis for printing
                 let max = Math.round(d.baby_girls/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👶');
+                for (let i=0; i < max; i++) newemojis.push('baby_girls');
                 max = Math.round(d.baby_boys/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👶');
+                for (let i=0; i < max; i++) newemojis.push('baby_boys');
                 max = Math.round(d.boys/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👧');
+                for (let i=0; i < max; i++) newemojis.push('girls');
                 max = Math.round(d.girls/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👦');
+                for (let i=0; i < max; i++) newemojis.push('boys');
                 max = Math.round(d.women/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👩');
+                for (let i=0; i < max; i++) newemojis.push('women');
                 max = Math.round(d.men/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👨');
+                for (let i=0; i < max; i++) newemojis.push('men');
                 max = Math.round(d.old_women/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👵');
+                for (let i=0; i < max; i++) newemojis.push('old_women');
                 max = Math.round(d.old_men/total*space);
-                for (let i=0; i < max; i++) newemojis.push('👴');
+                for (let i=0; i < max; i++) newemojis.push('old_men');
 
                 //Change the order of emojis to random and push state!
                 emojis = shuffle(newemojis);
-
-                //Set size
-                ctx.width = width;
-                ctx.height = height;
-
-                //Clear everything
-                ctx.clearRect(0, 0, width, height);
-
-                //Draw emojis
-                for (let i=0; i < emojis.length; i++) {
-                    ctx.fillText(emojis[i], getEmojiX(i), getEmojiY(i));
-                }
-
             }
             working = false;
         }
@@ -184,7 +170,7 @@
         padding: 50px 40px 0 40px;
         font-size: 20px;
         font-weight: 600;
-        line-height: 18px;
+        line-height: 24px;
     }
     .copyright {
         position: absolute;
@@ -196,15 +182,15 @@
     .emoji-canvas-inner {
         overflow: hidden;
         position: absolute;
-        top: 100px;
-        left: 40px;
-        width: calc(100vw - 530px);
+        top: 0;
+        left: 0;
         right: 0;
+        bottom: 0;
         height: calc(100vh - 100px);
     }
     
     .reference {
-        font-size: 24px;
+        font-size: 1.1rem;
         visibility: hidden;
     }
     .numbers {
@@ -239,12 +225,8 @@
             min-height: calc(100vw + 60px);
         }    
         .emoji-canvas-inner {
-            top: 60px;
-            left: 12px;
-            width: calc(100vw - 24px);
             min-height: 100vw;
             height: auto;
-            bottom: 0;
         }
         .copyright {
             bottom: 16px;
@@ -261,9 +243,9 @@
             One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wonderful people
         </h2>
         <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
-            <canvas height="2000" width="3000" id="ctx">
-                Fallback
-            </canvas>
+            {#each emojis as e, i (Math.random()+Math.random())}
+                <Emoji type={e} index={key} x={getEmojiX(i)} y={getEmojiY(i)} referenceHeight={reference_height} referenceWidth={reference_width} />
+            {/each}
         </div>
         <div class="copyright">
             By <a href="https://www.stefanie-hetjens.com/" target="_blank" rel="noopener">Stefanie Hetjens</a>, Copyright 2020, licensed as <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC-BY-NC</a>
