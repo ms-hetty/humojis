@@ -53,6 +53,8 @@
     let radius = 0; //Radius from the center point of the current drawing of an emoji
     let key = 0; //key-variable for redrawing!
 
+    let ctx = null;
+
     function shuffle(a) { //Function to shuffel the array of emojis
         var j, x, i;
         for (i = a.length - 1; i > 0; i--) {
@@ -88,9 +90,13 @@
             let d = display;
 
             //Init Canvas
-            let ctx = document.getElementById('ctx').getContext('2d');
-            ctx.font = '24px sans-serif';
-            
+            if (ctx == null) {
+                ctx = document.getElementById('ctx').getContext('2d');
+                ctx.scale(2,2);
+                document.getElementById('ctx').style.width = "3000px";
+                document.getElementById('ctx').style.height = "2000px";
+                ctx.font = '24px sans-serif';
+            }
             // Size of one Emoji
             let refemoji = ctx.measureText('🙂');
 
@@ -261,7 +267,7 @@
             One Emoji equals {new Intl.NumberFormat().format(emoji_scale)} wonderful people
         </h2>
         <div class="emoji-canvas-inner" bind:clientWidth={width} bind:clientHeight={height}>
-            <canvas height="2000" width="3000" id="ctx">
+            <canvas height="4000" width="6000" id="ctx">
                 Fallback
             </canvas>
         </div>
