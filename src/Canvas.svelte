@@ -90,9 +90,9 @@
             //Init Canvas
             if (ctx == null) {
                 ctx = document.getElementById('ctx').getContext('2d');
-                //ctx.scale(2,2);
-                //document.getElementById('ctx').style.width = "3000px";
-                //document.getElementById('ctx').style.height = "2000px";
+                ctx.scale(2,2);
+                document.getElementById('ctx').style.width = "3000px";
+                document.getElementById('ctx').style.height = "2000px";
                 ctx.font = '24px sans-serif';
             }
             // Size of one Emoji
@@ -114,14 +114,11 @@
             center.x = room.width/2;
             center.y = room.height/2;
 
-            space = ((room.width)/(refemoji.width-5))*((room.height)/(refemoji.width-5));
-            total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
+            space = Math.round(((room.width)/(refemoji.width-5))*((room.height)/(refemoji.width-5)));
+            total = Math.round(r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men);
             emoji_scale = Math.round(total/space)*1000;
 
             let newemojis = [];
-            alert("pre if");
-            alert(total);
-            alert(space);
             if ((total > 0) && (space > 0)) {
                 //reset drawing
                 angle = 0;
@@ -154,16 +151,14 @@
 
                 //Clear everything
                 ctx.clearRect(0, 0, width, height);
-
-                alert("Pre Draw");                
-                alert(emojis.length);
-                alert(emojis[0]);
+                
+                //TEST
+                ctx.fillText(emojis[0], 50, 50);
 
                 //Draw emojis
                 for (let i=0; i < emojis.length; i++) {
                     ctx.fillText(emojis[i], getEmojiX(i), getEmojiY(i));
                 }
-                alert("Post Draw");
                 
 
             }
