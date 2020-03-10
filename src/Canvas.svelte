@@ -1,6 +1,4 @@
 <script>
-    import Emoji from './Emoji.svelte';
-
     export let filter = { //What are we shoing?
 		year: 1950,
 		region: 'any',
@@ -116,11 +114,14 @@
             center.x = room.width/2;
             center.y = room.height/2;
 
-            space = ((room.width)/(refemoji.width-6))*((room.height)/(refemoji.width-6));
+            space = ((room.width)/(refemoji.width-5))*((room.height)/(refemoji.width-5));
             total = r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men;
             emoji_scale = Math.round(total/space)*1000;
 
             let newemojis = [];
+            console.log("pre if");
+            console.log(total);
+            console.log(space);
             if ((total > 0) && (space > 0)) {
                 //reset drawing
                 angle = 0;
@@ -154,10 +155,16 @@
                 //Clear everything
                 ctx.clearRect(0, 0, width, height);
 
+                console.log("Pre Draw");                
+                console.log(emojis.length);
+                console.log(emojis[0]);
+
                 //Draw emojis
                 for (let i=0; i < emojis.length; i++) {
                     ctx.fillText(emojis[i], getEmojiX(i), getEmojiY(i));
                 }
+                console.log("Post Draw");
+                
 
             }
             working = false;
