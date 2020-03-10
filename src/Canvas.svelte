@@ -113,8 +113,6 @@
             }
             center.x = room.width/2;
             center.y = room.height/2;
-            alert("Room width: "+room.width);
-            alert("Room height: "+room.height);
 
             space = Math.round(((room.width)/(refemoji.width-5))*((room.height)/(refemoji.width-5)));
             total = Math.round(r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men);
@@ -171,6 +169,10 @@
 </script>
 
 <style>
+    #ctx {
+        background: red;
+        z-index: 10000;
+    }
     /* General and Desktop styles */
     .canvas {
         background-color: #0052CC;
