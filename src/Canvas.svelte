@@ -90,9 +90,9 @@
             //Init Canvas
             if (ctx == null) {
                 ctx = document.getElementById('ctx').getContext('2d');
-                ctx.scale(2,2);
-                document.getElementById('ctx').style.width = "3000px";
-                document.getElementById('ctx').style.height = "2000px";
+                //ctx.scale(2,2);
+                //document.getElementById('ctx').style.width = "3000px";
+                //document.getElementById('ctx').style.height = "2000px";
                 ctx.font = '24px sans-serif';
             }
             // Size of one Emoji
@@ -119,9 +119,9 @@
             emoji_scale = Math.round(total/space)*1000;
 
             let newemojis = [];
-            console.log("pre if");
-            console.log(total);
-            console.log(space);
+            alert("pre if");
+            alert(total);
+            alert(space);
             if ((total > 0) && (space > 0)) {
                 //reset drawing
                 angle = 0;
@@ -155,15 +155,15 @@
                 //Clear everything
                 ctx.clearRect(0, 0, width, height);
 
-                console.log("Pre Draw");                
-                console.log(emojis.length);
-                console.log(emojis[0]);
+                alert("Pre Draw");                
+                alert(emojis.length);
+                alert(emojis[0]);
 
                 //Draw emojis
                 for (let i=0; i < emojis.length; i++) {
                     ctx.fillText(emojis[i], getEmojiX(i), getEmojiY(i));
                 }
-                console.log("Post Draw");
+                alert("Post Draw");
                 
 
             }
