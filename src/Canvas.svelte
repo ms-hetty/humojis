@@ -113,6 +113,8 @@
             }
             center.x = room.width/2;
             center.y = room.height/2;
+            alert("Room width: "+room.width);
+            alert("Room height: "+room.height);
 
             space = Math.round(((room.width)/(refemoji.width-5))*((room.height)/(refemoji.width-5)));
             total = Math.round(r.baby_girls+r.baby_boys+r.girls+r.boys+r.women+r.men+r.old_women+r.old_men);
@@ -153,7 +155,8 @@
                 ctx.clearRect(0, 0, width, height);
                 
                 //TEST
-                ctx.fillText(emojis[0], 50, 50);
+                ctx.fillStyle = 'green';
+                ctx.fillRect(20, 10, 150, 100);
 
                 //Draw emojis
                 for (let i=0; i < emojis.length; i++) {
