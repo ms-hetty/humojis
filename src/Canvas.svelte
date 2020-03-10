@@ -97,6 +97,8 @@
             }
             // Size of one Emoji
             let refemoji = ctx.measureText('🙂');
+            if (width < 500)
+                refemoji = ctx.measureText('🙂 ');
 
             //how much space do we have?
             if (width<height) {
@@ -152,10 +154,6 @@
                 //Clear everything
                 ctx.clearRect(0, 0, width, height);
                 
-                //TEST
-                ctx.fillStyle = 'green';
-                ctx.fillRect(20, 10, 150, 100);
-
                 //Draw emojis
                 for (let i=0; i < emojis.length; i++) {
                     ctx.fillText(emojis[i], getEmojiX(i), getEmojiY(i));
@@ -169,10 +167,6 @@
 </script>
 
 <style>
-    #ctx {
-        background: red;
-        z-index: 10000;
-    }
     /* General and Desktop styles */
     .canvas {
         background-color: #0052CC;

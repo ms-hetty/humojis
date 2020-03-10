@@ -90,7 +90,7 @@
         box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
         border: 1px solid #000000;
         height: 28px;
-        width: 10px;
+        width: 20px;
         border-radius: 0px;
         background: #ffffff;
         cursor: pointer;
@@ -113,7 +113,7 @@
         box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
         border: 1px solid #000000;
         height: 28px;
-        width: 10px;
+        width: 20px;
         border-radius: 0px;
         background: #ffffff;
         cursor: pointer;
@@ -142,7 +142,7 @@
         box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
         border: 1px solid #000000;
         height: 28px;
-        width: 10px;
+        width: 20px;
         border-radius: 0px;
         background: #ffffff;
         cursor: pointer;
