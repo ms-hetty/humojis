@@ -90,6 +90,7 @@
     <p class="question">Why are all emojis yellow?</p>
     <p class="answer">I didn't want to represent skin colors for various reasons:</p>
     <ul class="answer">
+        <li>Skin tones are not relevant to the points made in the project</li>
         <li>Only a handful of countries gather data on the skin tones of people, so there isn't any report from the UN or similar international bodies</li>
         <li>It is not an option to assign a skin tone to a country, because in most countries live people with various skin tones</li>
         <li>Existing estimates of the global skin tones distribution are very old and based on outdated, colonialistic world views</li>
@@ -110,12 +111,9 @@
 
     <p class="question">What is the meaning of the domain name humojis.world?</p>
     <p class="answer">It is the name of the project. It's a combination of Humankind and Emojis. Simply humojis.</p>
-
-    <p class="question">Why is the website responding so slowly?</p>
-    <p class="answer">I am aware that the website responds slowly. I want to optimize the speed but didn't find time until now. The underlying cause is that on every change, all emojis and their positions are randomly re-calculated. If you like to work on a fix, <a href="https://github.com/ms-hetty/humojis" target="_blank" rel="noopener">please send me a pull request on Github</a>.</p>
-
+    
     <p class="question">Is the website accessible?</p>
-    <p class="answer">The website is accessible to people with various impairments. I've used standard HTML controls, considered contrasts, etc. But unfortunately, it's not optimized for people who use screen readers. If you have ideas on how to optimize this website, please get in contact with me.</p>
+    <p class="answer">The website is accessible to people with various impairments. I've used standard HTML controls, considered contrasts, etc. But unfortunately, it's not optimized for people who use screen readers, and the display of the emojis is, depending on the operating system, hard to see. If you have ideas on how to optimize this website, please get in contact with me.</p>
 
     <p class="question">Is the project open source, and can I contribute?</p>
     <p class="answer">Yes. You can <a href="https://github.com/ms-hetty/humojis" target="_blank" rel="noopener">access the Github repository</a>. It is licensed under Creative Commons Attribution-NonCommercial 4.0 International License. <a href="https://github.com/ms-hetty/humojis" target="_blank" rel="noopener">I am happy to get pull requests to improve the project</a>.</p>
